@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Michieki Instagram Editor</title>
+  <meta name="description" content="正方形の画像から道の駅巡りのInstagram投稿用サムネイル・本投稿カルーセル画像を自動生成・一括ダウンロードできるWebツール">
+
+  <!-- Google Fonts: Outfit & Noto Sans JP -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Outfit:wght@500;600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- Cropper.js for 1:1 image cropping -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.2/cropper.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.2/cropper.min.js"></script>
+
+  <!-- JSZip for client-side batch zip creation -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="brand-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round">
+            <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"></path>
+            <line x1="4" y1="22" x2="4" y2="15"></line>
+          </svg>
+        </div>
+        <div>
+          <h1 class="brand-title">道の駅インスタ投稿 画像エディタ</h1>
+          <p class="brand-subtitle">正方形画像からInstagram用のサムネイル＆本投稿画像を自動加工・一括ZIP作成</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Font Status & Loader -->
+        <div class="font-status-box" id="fontStatusBox" title="ふい字P 2.9 の読み込み状況">
+          <span class="status-indicator" id="fontStatusDot"></span>
+          <span class="status-text" id="fontStatusText">ふい字P確認中...</span>
+          <label class="btn-sm btn-ghost font-upload-btn" title="ローカルのふい字P（HuiFontP29.ttf / .otf）を選択">
+            <input type="file" id="fontFileInput" accept=".ttf,.otf,.woff,.woff2" hidden>
+            フォント選択
+          </label>
+        </div>
+
+        <!-- Custom Stations Manager -->
+        <button id="openCustomStationsBtn" class="btn-sm btn-outline">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+            <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+          </svg>
+          登録駅の管理
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Grid -->
+    <main class="main-layout">
+      <!-- Left Panel: Form & Controls -->
+      <section class="left-panel">
+
+        <!-- Step 1: Upload Images -->
+        <div class="card">
+          <div class="card-header">
+            <span class="step-badge">1</span>
+            <h2>画像を追加</h2>
+            <span class="card-badge" id="imageCountBadge">0枚選択中</span>
+          </div>
+          <div class="card-body">
+            <input type="file" id="imageFileInput" accept="image/*,.png,.jpg,.jpeg,.webp" multiple hidden>
+            <div class="dropzone" id="dropzone">
+              <div class="dropzone-content">
+                <div class="dropzone-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                    <circle cx="8.5" cy="8.5" r="1.5"></circle>
+                    <polyline points="21 15 16 10 5 21"></polyline>
+                  </svg>
+                </div>
+                <p class="dropzone-title">画像をドラッグ＆ドロップ、または<span class="text-link">ファイルを選択</span></p>
+                <p class="dropzone-hint">複数枚まとめて選択可能（正方形画像推奨・非正方形はクロップ可能）</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 2: Color Configuration -->
+        <div class="card">
+          <div class="card-header">
+            <span class="step-badge">2</span>
+            <h2>背景色・余白カラー</h2>
+            <button id="resetColorBtn" class="btn-xs btn-ghost" title="初期値 RGB(230, 255, 230) に戻す">初期値に戻す</button>
+          </div>
+          <div class="card-body">
+            <div class="color-control-group">
+              <div class="color-preview-wrapper">
+                <input type="color" id="bgColorPicker" value="#e6ffe6" title="カラーピッカーで選択">
+              </div>
+              <div class="rgb-inputs">
+                <div class="rgb-field">
+                  <label for="colorR">R</label>
+                  <input type="number" id="colorR" min="0" max="255" value="230">
+                </div>
+                <div class="rgb-field">
+                  <label for="colorG">G</label>
+                  <input type="number" id="colorG" min="0" max="255" value="255">
+                </div>
+                <div class="rgb-field">
+                  <label for="colorB">B</label>
+                  <input type="number" id="colorB" min="0" max="255" value="230">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 3: Thumbnail Information -->
+        <div class="card">
+          <div class="card-header">
+            <span class="step-badge">3</span>
+            <h2>サムネイル情報の入力</h2>
+          </div>
+          <div class="card-body">
+            <div class="form-grid">
+
+              <!-- Region Field -->
+              <div class="form-group">
+                <label for="regionSelect">地域プリセット</label>
+                <div class="region-select-wrap">
+                  <select id="regionSelect">
+                    <option value="近畿" selected>近畿 (デフォルト)</option>
+                    <option value="北海道">北海道</option>
+                    <option value="東北">東北</option>
+                    <option value="関東">関東</option>
+                    <option value="北陸">北陸</option>
+                    <option value="中部">中部</option>
+                    <option value="中国">中国</option>
+                    <option value="四国">四国</option>
+                    <option value="九州・沖縄">九州・沖縄</option>
+                    <option value="custom">✏️ 直接手入力...</option>
+                  </select>
+                  <input type="text" id="customRegionInput" placeholder="地域名を入力" class="hidden">
+                </div>
+              </div>
+
+              <!-- Number Field -->
+              <div class="form-group">
+                <label for="stationNumberInput">番号 #(番号)</label>
+                <input type="text" id="stationNumberInput" placeholder="例: 01 や 12" value="01">
+              </div>
+
+              <!-- Station Name (with Autocomplete) -->
+              <div class="form-group full-width autocomplete-group">
+                <label for="stationNameInput">
+                  道の駅名
+                  <span class="label-tag">候補検索・自動補完対応</span>
+                </label>
+                <div class="input-with-icon">
+                  <input type="text" id="stationNameInput" placeholder="例: 針テラス / アグリの郷栗東（入力で候補表示）" autocomplete="off">
+                  <span class="search-indicator" id="searchIndicator">🔍</span>
+                </div>
+                <!-- Autocomplete dropdown list -->
+                <ul class="autocomplete-list" id="autocompleteList" hidden></ul>
+              </div>
+
+              <!-- Prefecture Field -->
+              <div class="form-group">
+                <label for="prefectureInput">都道府県</label>
+                <input type="text" id="prefectureInput" placeholder="例: 奈良県">
+              </div>
+
+              <!-- Municipality Field -->
+              <div class="form-group">
+                <label for="municipalityInput">市町村</label>
+                <input type="text" id="municipalityInput" placeholder="例: 天理市">
+              </div>
+
+            </div>
+
+            <div class="form-register-row">
+              <button type="button" id="registerStationBtn" class="btn-sm btn-outline register-station-btn">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path>
+                  <polyline points="17 21 17 13 7 13 7 21"></polyline>
+                  <polyline points="7 3 7 8 15 8"></polyline>
+                </svg>
+                この情報で登録
+              </button>
+              <span class="register-feedback" id="registerFeedback" hidden>✅ 登録しました</span>
+            </div>
+
+            <div class="info-note">
+              💡
+              <strong>道の駅名の自動補完</strong>：入力すると全国の道の駅データから予測候補が表示され、選択すると「都道府県」「市町村」が自動入力されます。未登録の新しい道の駅は「この情報で登録」ボタンを押すと保存され、次回から補完候補に追加されます。
+            </div>
+          </div>
+        </div>
+
+        <!-- Download Action Card -->
+        <div class="card action-card">
+          <div class="card-body">
+            <button id="downloadZipBtn" class="btn-primary btn-large" disabled>
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="7 10 12 15 17 10"></polyline>
+                <line x1="12" y1="15" x2="12" y2="3"></line>
+              </svg>
+              サムネイルも含めた全画像の一括zipダウンロード
+            </button>
+            <p class="download-info" id="downloadStatusText">画像を1枚以上追加するとダウンロードが有効になります</p>
+            <div class="progress-bar-container" id="progressBarContainer" hidden>
+              <div class="progress-bar-fill" id="progressBarFill"></div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- Right Panel: Realtime Preview & Image Gallery -->
+      <section class="right-panel">
+
+        <!-- Live Preview Card -->
+        <div class="card preview-card">
+          <div class="card-header">
+            <div class="card-title-group">
+              <h2 id="previewHeaderTitle">リアルタイム プレビュー</h2>
+              <span class="preview-badge" id="previewBadge">画像未選択</span>
+            </div>
+            <div class="preview-actions">
+              <button id="clearThumbnailBtn" class="btn-xs btn-ghost" title="サムネイル指定を解除" style="color: #ef4444; font-weight: 600;" hidden>
+                サムネイル解除
+              </button>
+              <span class="preview-dimension" id="previewDimension">-</span>
+            </div>
+          </div>
+          <div class="card-body preview-body">
+            <div class="preview-canvas-wrapper" id="previewCanvasWrapper">
+              <canvas id="thumbnailPreviewCanvas"></canvas>
+              <div class="empty-preview" id="emptyPreview">
+                <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.5">
+                  <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                  <circle cx="8.5" cy="8.5" r="1.5"></circle>
+                  <polyline points="21 15 16 10 5 21"></polyline>
+                </svg>
+                <p>画像一覧から画像をクリックすると<br>ここに完成イメージがプレビューされます</p>
+              </div>
+            </div>
+
+            <!-- Thumbnail specs indicator -->
+            <div class="specs-bar" id="specsBar">
+              <div class="spec-pill"><span>キャンバス:</span> 1.4x × 1.4x</div>
+              <div class="spec-pill"><span>上部ベゼル:</span> 0.1x</div>
+              <div class="spec-pill"><span>情報エリア:</span> 0.3x</div>
+              <div class="spec-pill"><span>メイン文字:</span> 0.07x (太字)</div>
+              <div class="spec-pill"><span>サブ文字:</span> 0.056x (太字)</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Image Gallery & Selection List -->
+        <div class="card">
+          <div class="card-header">
+            <h2>アップロード画像一覧</h2>
+            <div class="gallery-controls">
+              <span class="gallery-subtext">カード選択でプレビュー表示 / サムネイルは再クリックで解除可能</span>
+            </div>
+          </div>
+          <div class="card-body">
+            <div class="image-gallery-grid" id="imageGalleryGrid">
+              <div class="empty-gallery" id="emptyGalleryNotice">
+                画像がまだアップロードされていません。左側のエリアに画像をドロップしてください。
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+    </main>
+
+    <!-- Crop Modal (for non-square images) -->
+    <div class="modal-overlay" id="cropModal" hidden>
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>正方形（1:1）にトリミング</h3>
+          <button class="modal-close-btn" id="closeCropModalBtn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-description">画像が正方形ではありません。Instagram投稿用に1:1正方形枠を調整して切り抜いてください。</p>
+          <div class="cropper-container-wrapper">
+            <img id="cropperImage" src="" alt="トリミング対象">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-secondary" id="cancelCropBtn">キャンセル</button>
+          <button class="btn btn-primary" id="applyCropBtn">正方形に切り抜く</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Custom Stations Manager Modal -->
+    <div class="modal-overlay" id="customStationsModal" hidden>
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>登録・学習済み道の駅の管理</h3>
+          <button class="modal-close-btn" id="closeCustomStationsModalBtn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-description">手入力で自動学習・保存された道の駅の一覧です。誤字や不要になった駅は個別に削除できます。</p>
+          <div class="custom-stations-list" id="customStationsList">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn btn-danger-outline" id="clearAllCustomStationsBtn">すべての登録駅を初期化</button>
+          <button class="btn btn-secondary" id="closeCustomStationsBtn2">閉じる</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="app.js?v=1.2"></script>
+</body>
+
+</html>

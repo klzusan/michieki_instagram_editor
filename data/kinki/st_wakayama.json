@@ -1,0 +1,170 @@
+[
+  {
+    "name": "くしがきの里",
+    "kana": "くしがきのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "かつらぎ町",
+    "number": "01"
+  },
+  {
+    "name": "紀の川万葉の里",
+    "kana": "きのかわまんようのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "かつらぎ町",
+    "number": "02"
+  },
+  {
+    "name": "青洲の里",
+    "kana": "せいしゅうのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "紀の川市",
+    "number": "03"
+  },
+  {
+    "name": "根来さくらの里",
+    "kana": "ねごろさくらのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "岩出市",
+    "number": "04"
+  },
+  {
+    "name": "四季の郷公園",
+    "kana": "しきのさとこうえん",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "和歌山市",
+    "number": "05"
+  },
+  {
+    "name": "しらまの里",
+    "kana": "しらまのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "有田川町",
+    "number": "06"
+  },
+  {
+    "name": "明恵ふるさと館",
+    "kana": "みょうえふるさとかん",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "有田川町",
+    "number": "07"
+  },
+  {
+    "name": "あらぎの里",
+    "kana": "あらぎのさと",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "有田川町",
+    "number": "08"
+  },
+  {
+    "name": "San Pin 中津",
+    "kana": "さんぴんなかつ",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "日高川町",
+    "number": "09"
+  },
+  {
+    "name": "白崎海洋公園",
+    "kana": "しらさきかいようこうえん",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "由良町",
+    "number": "10"
+  },
+  {
+    "name": "みなべうめ振興館",
+    "kana": "みなべうめしんこうかん",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "みなべ町",
+    "number": "11"
+  },
+  {
+    "name": "くちくまの",
+    "kana": "くちくまの",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "上富田町",
+    "number": "12"
+  },
+  {
+    "name": "すさみ",
+    "kana": "すさみ",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "すさみ町",
+    "number": "13"
+  },
+  {
+    "name": "くしもと橋杭岩",
+    "kana": "くしもとはしぐいいわ",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "串本町",
+    "number": "14"
+  },
+  {
+    "name": "たいじ",
+    "kana": "たいじ",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "太地町",
+    "number": "15"
+  },
+  {
+    "name": "なち",
+    "kana": "なち",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "那智勝浦町",
+    "number": "16"
+  },
+  {
+    "name": "瀞峡街道 熊野川",
+    "kana": "どろきょうかいどうくまのがわ",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "新宮市",
+    "number": "17"
+  },
+  {
+    "name": "ごまざんスカイタワー",
+    "kana": "ごまざんすかいたわー",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "田辺市",
+    "number": "18"
+  },
+  {
+    "name": "熊野古道中辺路",
+    "kana": "くまのこどうなかへち",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "田辺市",
+    "number": "19"
+  },
+  {
+    "name": "ふるさとセンター大塔",
+    "kana": "ふるさとせんたーおおとう",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "田辺市",
+    "number": "20"
+  },
+  {
+    "name": "奥熊野古道ほんぐう",
+    "kana": "おくくまのこどうほんぐう",
+    "region": "近畿",
+    "prefecture": "和歌山県",
+    "municipality": "田辺市",
+    "number": "21"
+  }
+]

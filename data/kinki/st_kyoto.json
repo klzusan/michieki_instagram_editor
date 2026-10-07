@@ -1,0 +1,138 @@
+[
+  {
+    "name": "美山ふれあい広場",
+    "kana": "みやまふれあいひろば",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "南丹市",
+    "number": "01"
+  },
+  {
+    "name": "丹波マーケス",
+    "kana": "たんばまーけす",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹波町",
+    "number": "02"
+  },
+  {
+    "name": "瑞穂の里・さらびき",
+    "kana": "みずほのさとさらびき",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹波町",
+    "number": "03"
+  },
+  {
+    "name": "和",
+    "kana": "なごみ",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹波町",
+    "number": "04"
+  },
+  {
+    "name": "京都新光悦村",
+    "kana": "きょうとしんこうえつむら",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "南丹市",
+    "number": "05"
+  },
+  {
+    "name": "ガレリアかめおか",
+    "kana": "がれりあかめおか",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "亀岡市",
+    "number": "06"
+  },
+  {
+    "name": "スプリングスひよし",
+    "kana": "すぷりんぐすひよし",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "南丹市",
+    "number": "07"
+  },
+  {
+    "name": "ウッディー京北",
+    "kana": "うっでぃーけいほく",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京都市右京区",
+    "number": "08"
+  },
+  {
+    "name": "舟屋の里伊根",
+    "kana": "ふなやのさといね",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "伊根町",
+    "number": "09"
+  },
+  {
+    "name": "海の京都 宮津",
+    "kana": "うみのきょうとみやづ",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "宮津市",
+    "number": "10"
+  },
+  {
+    "name": "てんきてんき丹後",
+    "kana": "てんきてんきたんご",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹後市",
+    "number": "11"
+  },
+  {
+    "name": "丹後王国「食のみやこ」",
+    "kana": "たんごおうこくしょくのみやこ",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹後市",
+    "number": "12"
+  },
+  {
+    "name": "くみはま SANKAIKAN",
+    "kana": "くみはまさんかいかん",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "京丹後市",
+    "number": "13"
+  },
+  {
+    "name": "シルクのまち かや",
+    "kana": "しるくのまちかや",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "与謝野町",
+    "number": "14"
+  },
+  {
+    "name": "舞鶴港とれとれセンター",
+    "kana": "まいづるこうとれとれせんたー",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "舞鶴市",
+    "number": "15"
+  },
+  {
+    "name": "農匠の郷やくの",
+    "kana": "のうしょうのさとやくの",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "福知山市",
+    "number": "16"
+  },
+  {
+    "name": "お茶の京都 みなみやましろ村",
+    "kana": "おちゃのきょうとみなみやましろむら",
+    "region": "近畿",
+    "prefecture": "京都府",
+    "municipality": "南山城村",
+    "number": "17"
+  }
+]

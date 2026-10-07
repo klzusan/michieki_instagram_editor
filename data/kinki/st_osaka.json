@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ちはやあかさか",
+    "kana": "ちはやあかさか",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "千早赤阪村",
+    "number": "01"
+  },
+  {
+    "name": "かなん",
+    "kana": "かなん",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "河南町",
+    "number": "02"
+  },
+  {
+    "name": "近つ飛鳥の里・太子",
+    "kana": "ちかつあすかのさとたいし",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "太子町",
+    "number": "03"
+  },
+  {
+    "name": "いずみ山愛の里",
+    "kana": "いずみやまあいのさと",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "和泉市",
+    "number": "04"
+  },
+  {
+    "name": "愛彩ランド",
+    "kana": "あいさいらんど",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "岸和田市",
+    "number": "05"
+  },
+  {
+    "name": "くろまろの郷",
+    "kana": "くろまろのさと",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "河内長野市",
+    "number": "06"
+  },
+  {
+    "name": "奥河内くろまろの郷",
+    "kana": "おくかわちくろまろのさと",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "河内長野市",
+    "number": "06"
+  },
+  {
+    "name": "能勢（くりの郷）",
+    "kana": "のせくりのさと",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "能勢町",
+    "number": "07"
+  },
+  {
+    "name": "しらとりの郷・羽曳野",
+    "kana": "しらとりのさとはびきの",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "羽曳野市",
+    "number": "08"
+  },
+  {
+    "name": "みのお",
+    "kana": "みのお",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "箕面市",
+    "number": "09"
+  },
+  {
+    "name": "とっとパーク小島",
+    "kana": "とっとぱーくこしま",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "岬町",
+    "number": "10"
+  }
+]

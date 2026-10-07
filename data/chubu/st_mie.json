@@ -1,0 +1,58 @@
+[
+  {
+    "name": "飯高駅",
+    "kana": "いいたかえき",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "松阪市",
+    "number": "01"
+  },
+  {
+    "name": "伊勢志摩",
+    "kana": "いせしま",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "志摩市",
+    "number": "02"
+  },
+  {
+    "name": "いが",
+    "kana": "いが",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "伊賀市",
+    "number": "03"
+  },
+  {
+    "name": "あやま",
+    "kana": "あやま",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "伊賀市",
+    "number": "04"
+  },
+  {
+    "name": "関宿",
+    "kana": "せきじゅく",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "亀山市",
+    "number": "05"
+  },
+  {
+    "name": "紀宝町ウミガメ公園",
+    "kana": "きほうちょううみがめこうえん",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "紀宝町",
+    "number": "06"
+  },
+  {
+    "name": "熊野・花の窟",
+    "kana": "くまのはなのいわや",
+    "region": "近畿",
+    "prefecture": "三重県",
+    "municipality": "熊野市",
+    "number": "07"
+  }
+]

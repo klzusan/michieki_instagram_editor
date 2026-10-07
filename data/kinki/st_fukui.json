@@ -1,0 +1,42 @@
+[
+  {
+    "name": "九頭竜",
+    "kana": "くずりゅう",
+    "region": "北陸",
+    "prefecture": "福井県",
+    "municipality": "大野市",
+    "number": "01"
+  },
+  {
+    "name": "越前",
+    "kana": "えちぜん",
+    "region": "北陸",
+    "prefecture": "福井県",
+    "municipality": "越前町",
+    "number": "02"
+  },
+  {
+    "name": "若狭おばま",
+    "kana": "わかさおばま",
+    "region": "北陸",
+    "prefecture": "福井県",
+    "municipality": "小浜市",
+    "number": "03"
+  },
+  {
+    "name": "うみんぴあ大飯",
+    "kana": "うみんぴあおおい",
+    "region": "北陸",
+    "prefecture": "福井県",
+    "municipality": "おおい町",
+    "number": "04"
+  },
+  {
+    "name": "シーサイド高浜",
+    "kana": "しーさいどたかはま",
+    "region": "北陸",
+    "prefecture": "福井県",
+    "municipality": "高浜町",
+    "number": "05"
+  }
+]
