@@ -1,10 +1,205 @@
 [
   {
-    "name": "保田小学校",
-    "kana": "ほたしょうがっこう",
+    "name": "とみうら",
+    "kana": "とみうら",
     "region": "関東",
     "prefecture": "千葉県",
-    "municipality": "鋸南町",
-    "number": "01"
+    "municipality": "南房総市"
+  },
+  {
+    "name": "三芳村",
+    "kana": "みよしむら",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "やちよ",
+    "kana": "やちよ",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "八千代市"
+  },
+  {
+    "name": "きょなん",
+    "kana": "きょなん",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "安房郡鋸南町"
+  },
+  {
+    "name": "鴨川オーシャンパーク",
+    "kana": "かもがわおーしゃんぱーく",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "鴨川市"
+  },
+  {
+    "name": "ローズマリー公園",
+    "kana": "ろーずまりーこうえん",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "ふれあいパーク・きみつ",
+    "kana": "ふれあいぱーく・きみつ",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "君津市"
+  },
+  {
+    "name": "しょうなん",
+    "kana": "しょうなん",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "柏市"
+  },
+  {
+    "name": "たけゆらの里おおたき",
+    "kana": "たけゆらのさとおおたき",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "夷隅郡大多喜町"
+  },
+  {
+    "name": "多古",
+    "kana": "たこ",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "香取郡多古町"
+  },
+  {
+    "name": "あずの里いちはら",
+    "kana": "あずのさといちはら",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "市原市"
+  },
+  {
+    "name": "くりもと",
+    "kana": "くりもと",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "香取市"
+  },
+  {
+    "name": "ちくら・潮風王国",
+    "kana": "ちくら・しおかぜおうこく",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "富楽里とみやま",
+    "kana": "とみらくさととみやま",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "おおつの里",
+    "kana": "おおつのさと",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "オライはすぬま",
+    "kana": "おらいはすぬま",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "山武市"
+  },
+  {
+    "name": "ながら",
+    "kana": "ながら",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "長生郡長柄町"
+  },
+  {
+    "name": "むつざわスマートウェルネスタウン・道の駅・つどいの郷",
+    "kana": "むつざわすまーとうぇるねすたうん・みちのえき・つどいのさと",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "長生郡睦沢町"
+  },
+  {
+    "name": "白浜野島崎",
+    "kana": "しらはまのじまさき",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "水の郷さわら",
+    "kana": "みずのさとさわら",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "香取市"
+  },
+  {
+    "name": "風和里しばやま",
+    "kana": "かぜわさとしばやま",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "山武郡芝山町"
+  },
+  {
+    "name": "和田浦　WA・O！",
+    "kana": "わだうら　WA・O！",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "南房総市"
+  },
+  {
+    "name": "発酵の里こうざき",
+    "kana": "はっこうのさとこうざき",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "香取郡神崎町"
+  },
+  {
+    "name": "季楽里あさひ",
+    "kana": "きらりあさひ",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "旭市"
+  },
+  {
+    "name": "保田小学校",
+    "kana": "やすだしょうがっこう",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "安房郡鋸南町"
+  },
+  {
+    "name": "みのりの郷東金",
+    "kana": "みのりのさととうがね",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "東金市"
+  },
+  {
+    "name": "木更津 うまくたの里",
+    "kana": "きさらづ うまくたのさと",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "木更津市"
+  },
+  {
+    "name": "いちかわ",
+    "kana": "いちかわ",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "市川市"
+  },
+  {
+    "name": "グリーンファーム館山",
+    "kana": "ぐりーんふぁーむたてやま",
+    "region": "関東",
+    "prefecture": "千葉県",
+    "municipality": "館山市"
   }
 ]

@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "name": "原尻の滝",
+    "kana": "はらじりのたき",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "豊後大野市"
+  },
+  {
+    "name": "宇目",
+    "kana": "うめ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "佐伯市"
+  },
+  {
+    "name": "竹田",
+    "kana": "たけだ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "竹田市"
+  },
+  {
+    "name": "佐賀関",
+    "kana": "さがのせき",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "大分市"
+  },
+  {
+    "name": "やまくに",
+    "kana": "やまくに",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "中津市"
+  },
+  {
+    "name": "耶馬トピア",
+    "kana": "やばとぴあ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "中津市"
+  },
+  {
+    "name": "あさじ",
+    "kana": "あさじ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "豊後大野市"
+  },
+  {
+    "name": "いんない",
+    "kana": "いんない",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "宇佐市"
+  },
+  {
+    "name": "せせらぎ郷かみつえ",
+    "kana": "せせらぎさとかみつえ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "日田市"
+  },
+  {
+    "name": "やよい",
+    "kana": "やよい",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "佐伯市"
+  },
+  {
+    "name": "鯛生金山",
+    "kana": "たいしょうきんやま",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "日田市"
+  },
+  {
+    "name": "きよかわ",
+    "kana": "きよかわ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "豊後大野市"
+  },
+  {
+    "name": "ゆふいん",
+    "kana": "ゆふいん",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "由布市"
+  },
+  {
+    "name": "みえ",
+    "kana": "みえ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "豊後大野市"
+  },
+  {
+    "name": "くにさき",
+    "kana": "くにさき",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "国東市"
+  },
+  {
+    "name": "水辺の郷おおやま",
+    "kana": "すいへんのさとおおやま",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "日田市"
+  },
+  {
+    "name": "かまえ",
+    "kana": "かまえ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "佐伯市"
+  },
+  {
+    "name": "ながゆ温泉",
+    "kana": "ながゆおんせん",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "竹田市"
+  },
+  {
+    "name": "おおの",
+    "kana": "おおの",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "豊後大野市"
+  },
+  {
+    "name": "くにみ",
+    "kana": "くにみ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "国東市"
+  },
+  {
+    "name": "童話の里　くす",
+    "kana": "どうわのさと　くす",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "玖珠郡玖珠町"
+  },
+  {
+    "name": "すごう",
+    "kana": "すごう",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "竹田市"
+  },
+  {
+    "name": "なかつ",
+    "kana": "なかつ",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "中津市"
+  },
+  {
+    "name": "慈恩の滝　くす",
+    "kana": "じおんのたき　くす",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "玖珠郡玖珠町"
+  },
+  {
+    "name": "のつはる",
+    "kana": "のつはる",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "大分市"
+  },
+  {
+    "name": "たのうらら",
+    "kana": "たのうらら",
+    "region": "九州・沖縄",
+    "prefecture": "大分県",
+    "municipality": "大分市"
+  }
+]

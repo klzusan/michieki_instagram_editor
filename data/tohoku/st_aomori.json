@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "name": "しちのへ",
+    "kana": "しちのへ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "上北郡七戸町"
+  },
+  {
+    "name": "はしかみ",
+    "kana": "はしかみ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "三戸郡階上町"
+  },
+  {
+    "name": "虹の湖",
+    "kana": "にじのみずうみ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "黒石市"
+  },
+  {
+    "name": "わきのさわ",
+    "kana": "わきのさわ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "むつ市"
+  },
+  {
+    "name": "かわうち湖",
+    "kana": "かわうちみずうみ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "むつ市"
+  },
+  {
+    "name": "しんごう",
+    "kana": "しんごう",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "三戸郡新郷村"
+  },
+  {
+    "name": "ひろさき",
+    "kana": "ひろさき",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "弘前市"
+  },
+  {
+    "name": "奥入瀬",
+    "kana": "おいらせ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "十和田市"
+  },
+  {
+    "name": "さんのへ",
+    "kana": "さんのへ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "三戸郡三戸町"
+  },
+  {
+    "name": "なみおか",
+    "kana": "なみおか",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "青森市"
+  },
+  {
+    "name": "十三湖高原",
+    "kana": "じゅうさんみずうみこうげん",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "五所川原市"
+  },
+  {
+    "name": "いまべつ",
+    "kana": "いまべつ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "東津軽郡今別町"
+  },
+  {
+    "name": "なんごう",
+    "kana": "なんごう",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "八戸市"
+  },
+  {
+    "name": "もりた",
+    "kana": "もりた",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "つがる市"
+  },
+  {
+    "name": "浅虫温泉",
+    "kana": "あさむしおんせん",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "青森市"
+  },
+  {
+    "name": "いかりがせき",
+    "kana": "いかりがせき",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "平川市"
+  },
+  {
+    "name": "いなかだて",
+    "kana": "いなかだて",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "南津軽郡田舎館村"
+  },
+  {
+    "name": "よこはま",
+    "kana": "よこはま",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "上北郡横浜町"
+  },
+  {
+    "name": "みんまや",
+    "kana": "みんまや",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "東津軽郡外ヶ浜町"
+  },
+  {
+    "name": "こどまり",
+    "kana": "こどまり",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "北津軽郡中泊町"
+  },
+  {
+    "name": "みさわ",
+    "kana": "みさわ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "三沢市"
+  },
+  {
+    "name": "とわだ",
+    "kana": "とわだ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "十和田市"
+  },
+  {
+    "name": "つるた",
+    "kana": "つるた",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "北津軽郡鶴田町"
+  },
+  {
+    "name": "ふかうら",
+    "kana": "ふかうら",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "西津軽郡深浦町"
+  },
+  {
+    "name": "おがわら湖",
+    "kana": "おがわらみずうみ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "上北郡東北町"
+  },
+  {
+    "name": "たいらだて",
+    "kana": "たいらだて",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "東津軽郡外ヶ浜町"
+  },
+  {
+    "name": "ろくのへ",
+    "kana": "ろくのへ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "上北郡六戸町"
+  },
+  {
+    "name": "津軽白神",
+    "kana": "つがるしらかみ",
+    "region": "東北",
+    "prefecture": "青森県",
+    "municipality": "中津軽郡西目屋村"
+  }
+]

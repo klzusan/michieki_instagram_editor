@@ -156,8 +156,8 @@
 
               <!-- Number Field -->
               <div class="form-group">
-                <label for="stationNumberInput">番号 #(番号)</label>
-                <input type="text" id="stationNumberInput" placeholder="例: 01 や 12" value="01">
+                <label for="stationNumberInput">#(番号)</label>
+                <input type="text" id="stationNumberInput" placeholder="例: 1 や 12" value="">
               </div>
 
               <!-- Station Name (with Autocomplete) -->
@@ -239,7 +239,8 @@
               <span class="preview-badge" id="previewBadge">画像未選択</span>
             </div>
             <div class="preview-actions">
-              <button id="clearThumbnailBtn" class="btn-xs btn-ghost" title="サムネイル指定を解除" style="color: #ef4444; font-weight: 600;" hidden>
+              <button id="clearThumbnailBtn" class="btn-xs btn-ghost" title="サムネイル指定を解除"
+                style="color: #ef4444; font-weight: 600;" hidden>
                 サムネイル解除
               </button>
               <span class="preview-dimension" id="previewDimension">-</span>
@@ -289,22 +290,62 @@
       </section>
     </main>
 
-    <!-- Crop Modal (for non-square images) -->
+    <!-- Crop Modal (for image cropping and rotation) -->
     <div class="modal-overlay" id="cropModal" hidden>
-      <div class="modal-card">
+      <div class="modal-card modal-card-crop">
         <div class="modal-header">
-          <h3>正方形（1:1）にトリミング</h3>
+          <h3>正方形（1:1）にトリミング・回転調整</h3>
           <button class="modal-close-btn" id="closeCropModalBtn">&times;</button>
         </div>
         <div class="modal-body">
-          <p class="modal-description">画像が正方形ではありません。Instagram投稿用に1:1正方形枠を調整して切り抜いてください。</p>
+          <p class="modal-description">Instagram投稿用に1:1正方形枠の調整や、写真の傾き（回転）の微調整が行えます。</p>
           <div class="cropper-container-wrapper">
             <img id="cropperImage" src="" alt="トリミング対象">
           </div>
+
+          <!-- Rotation fine-tuning controls -->
+          <div class="crop-rotation-controls">
+            <div class="crop-rotation-header">
+              <span class="crop-rotation-title">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67" />
+                </svg>
+                写真の傾き・回転の微調整
+              </span>
+              <span class="crop-rotation-value" id="cropRotationValue">0.0°</span>
+            </div>
+
+            <div class="crop-rotation-slider-row">
+              <button type="button" class="btn-crop-tool" id="cropRotateMinusOneBtn" title="-1° 微調整">↶ -1°</button>
+              <button type="button" class="btn-crop-tool" id="cropRotateMinusPointOneBtn"
+                title="-0.1° 微調整">-0.1°</button>
+              <input type="range" id="cropRotationSlider" min="-45" max="45" step="0.1" value="0" class="crop-slider">
+              <button type="button" class="btn-crop-tool" id="cropRotatePlusPointOneBtn"
+                title="+0.1° 微調整">+0.1°</button>
+              <button type="button" class="btn-crop-tool" id="cropRotatePlusOneBtn" title="+1° 微調整">↷ +1°</button>
+            </div>
+
+            <div class="crop-rotation-actions">
+              <div class="crop-rotation-group">
+                <button type="button" class="btn-crop-tool" id="cropRotateLeft90Btn" title="90° 反時計回りに回転">
+                  ↺ 90° 左回転
+                </button>
+                <button type="button" class="btn-crop-tool" id="cropRotateRight90Btn" title="90° 時計回りに回転">
+                  ↻ 90° 右回転
+                </button>
+              </div>
+              <button type="button" class="btn-crop-tool btn-crop-reset" id="cropRotateResetBtn" title="回転・傾きを0°にリセット">
+                ↺ 0° にリセット
+              </button>
+            </div>
+          </div>
         </div>
         <div class="modal-footer">
+          <button class="btn btn-secondary-outline" id="revertCropBtn" hidden>元画像に戻す</button>
+          <div class="modal-footer-spacer"></div>
           <button class="btn btn-secondary" id="cancelCropBtn">キャンセル</button>
-          <button class="btn btn-primary" id="applyCropBtn">正方形に切り抜く</button>
+          <button class="btn btn-primary" id="applyCropBtn">正方形に切り抜いて適用</button>
         </div>
       </div>
     </div>

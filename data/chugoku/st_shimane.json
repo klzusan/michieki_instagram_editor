@@ -1,1 +1,205 @@
-[]
+[
+  {
+    "name": "掛合の里",
+    "kana": "かけやのさと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "雲南市"
+  },
+  {
+    "name": "頓原",
+    "kana": "とんばら",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "飯石郡飯南町"
+  },
+  {
+    "name": "ゆうひパーク浜田",
+    "kana": "ゆうひぱーくはまだ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "浜田市"
+  },
+  {
+    "name": "ゆうひパーク三隅",
+    "kana": "ゆうひぱーくみすみ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "浜田市"
+  },
+  {
+    "name": "邑南の里",
+    "kana": "おおなんのさと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "邑智郡邑南町"
+  },
+  {
+    "name": "グリーンロード大和",
+    "kana": "ぐりーんろーどやまと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "邑智郡美郷町"
+  },
+  {
+    "name": "大社ご縁広場",
+    "kana": "たいしゃごへりひろば",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "出雲市"
+  },
+  {
+    "name": "サンエイト美都",
+    "kana": "さんえいとみと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "益田市"
+  },
+  {
+    "name": "奥出雲おろちループ",
+    "kana": "おくいずもおろちるーぷ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "仁多郡奥出雲町"
+  },
+  {
+    "name": "広瀬・富田城",
+    "kana": "ひろせ・とみたしろ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "安来市"
+  },
+  {
+    "name": "赤来高原",
+    "kana": "あかぎこうげん",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "飯石郡飯南町"
+  },
+  {
+    "name": "かきのきむら",
+    "kana": "かきのきむら",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "鹿足郡吉賀町"
+  },
+  {
+    "name": "キララ多伎",
+    "kana": "きららたき",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "出雲市"
+  },
+  {
+    "name": "湯の川",
+    "kana": "ゆのかわ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "出雲市"
+  },
+  {
+    "name": "シルクウェイにちはら",
+    "kana": "しるくうぇいにちはら",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "鹿足郡津和野町"
+  },
+  {
+    "name": "秋鹿なぎさ公園",
+    "kana": "あきしかなぎさこうえん",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "松江市"
+  },
+  {
+    "name": "津和野温泉なごみの里",
+    "kana": "つわのおんせんなごみのさと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "鹿足郡津和野町"
+  },
+  {
+    "name": "さくらの里きすき",
+    "kana": "さくらのさときすき",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "雲南市"
+  },
+  {
+    "name": "本庄",
+    "kana": "ほんじょう",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "松江市"
+  },
+  {
+    "name": "匹見峡",
+    "kana": "ひきみきょう",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "益田市"
+  },
+  {
+    "name": "酒蔵奥出雲交流館",
+    "kana": "しゅぞうおくいずもこうりゅうかん",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "仁多郡奥出雲町"
+  },
+  {
+    "name": "インフォメーションセンターかわもと",
+    "kana": "いんふぉめーしょんせんたーかわもと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "邑智郡川本町"
+  },
+  {
+    "name": "むいかいち温泉",
+    "kana": "むいかいちおんせん",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "鹿足郡吉賀町"
+  },
+  {
+    "name": "ロード銀山",
+    "kana": "ろーどぎんざん",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "大田市"
+  },
+  {
+    "name": "サンピコごうつ",
+    "kana": "さんぴこごうつ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "江津市"
+  },
+  {
+    "name": "おろちの里",
+    "kana": "おろちのさと",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "雲南市"
+  },
+  {
+    "name": "あらエッサ",
+    "kana": "あらえっさ",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "安来市"
+  },
+  {
+    "name": "たたらば壱番地",
+    "kana": "たたらばいちばんち",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "雲南市"
+  },
+  {
+    "name": "ごいせ仁摩",
+    "kana": "ごいせにま",
+    "region": "中国",
+    "prefecture": "島根県",
+    "municipality": "大田市"
+  }
+]

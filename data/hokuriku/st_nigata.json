@@ -1,1 +1,296 @@
-[]
+[
+  {
+    "name": "豊栄",
+    "kana": "とよさか",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "新潟市"
+  },
+  {
+    "name": "加治川",
+    "kana": "かじかわ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "新発田市"
+  },
+  {
+    "name": "神林",
+    "kana": "かんばやし",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "村上市"
+  },
+  {
+    "name": "朝日",
+    "kana": "あさひ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "村上市"
+  },
+  {
+    "name": "新潟ふるさと村",
+    "kana": "にいがたふるさとむら",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "新潟市"
+  },
+  {
+    "name": "能生",
+    "kana": "のう",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "糸魚川市"
+  },
+  {
+    "name": "みかわ",
+    "kana": "みかわ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "東蒲原郡阿賀町"
+  },
+  {
+    "name": "関川",
+    "kana": "せきがわ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "岩船郡関川村"
+  },
+  {
+    "name": "ちぢみの里おぢや",
+    "kana": "ちぢみのさとおぢや",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "小千谷市"
+  },
+  {
+    "name": "阿賀の里",
+    "kana": "あがのさと",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "東蒲原郡阿賀町"
+  },
+  {
+    "name": "笹川流れ",
+    "kana": "ささがわながれ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "村上市"
+  },
+  {
+    "name": "越後出雲崎　天領の里",
+    "kana": "えちごいずもざき　てんりょうのさと",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "三島郡出雲崎町"
+  },
+  {
+    "name": "胎内",
+    "kana": "たいない",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "胎内市"
+  },
+  {
+    "name": "ゆのたに",
+    "kana": "ゆのたに",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "魚沼市"
+  },
+  {
+    "name": "良寛の里　わしま",
+    "kana": "りょうかんのさと　わしま",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "長岡市"
+  },
+  {
+    "name": "まつだいふるさと会館",
+    "kana": "まつだいふるさとかいかん",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "十日町市"
+  },
+  {
+    "name": "越後市振の関",
+    "kana": "えちごいちぶりのかん",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "糸魚川市"
+  },
+  {
+    "name": "クロス１０十日町",
+    "kana": "くろす１０とおかまち",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "十日町市"
+  },
+  {
+    "name": "漢学の里しただ",
+    "kana": "かんがくのさとしただ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "三条市"
+  },
+  {
+    "name": "風の丘米山",
+    "kana": "かぜのおかよねやま",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "柏崎市"
+  },
+  {
+    "name": "いりひろせ",
+    "kana": "いりひろせ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "魚沼市"
+  },
+  {
+    "name": "西山ふるさと公苑",
+    "kana": "にしやまふるさとこうえん",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "柏崎市"
+  },
+  {
+    "name": "あらい",
+    "kana": "あらい",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "妙高市"
+  },
+  {
+    "name": "Ｒ２９０とちお",
+    "kana": "Ｒ２９０とちお",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "長岡市"
+  },
+  {
+    "name": "あいぽーと佐渡",
+    "kana": "あいぽーとさど",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "佐渡市"
+  },
+  {
+    "name": "親不知ピアパーク",
+    "kana": "おやしらずぴあぱーく",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "糸魚川市"
+  },
+  {
+    "name": "瀬替えの郷せんだ",
+    "kana": "せがええのさとせんだ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "十日町市"
+  },
+  {
+    "name": "雪のふるさと　やすづか",
+    "kana": "ゆきのふるさと　やすづか",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "上越市"
+  },
+  {
+    "name": "じょんのびの里高柳",
+    "kana": "じょんのびのさとたかやなぎ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "柏崎市"
+  },
+  {
+    "name": "花夢里にいつ",
+    "kana": "はなゆめさとにいつ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "新潟市"
+  },
+  {
+    "name": "国上",
+    "kana": "くにうえ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "燕市"
+  },
+  {
+    "name": "越後川口",
+    "kana": "えちごかわぐち",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "長岡市"
+  },
+  {
+    "name": "よしかわ杜氏の郷",
+    "kana": "よしかわとうじのさと",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "上越市"
+  },
+  {
+    "name": "うみてらす名立",
+    "kana": "うみてらすなだち",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "上越市"
+  },
+  {
+    "name": "南魚沼",
+    "kana": "みなみうおぬま",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "南魚沼市"
+  },
+  {
+    "name": "パティオにいがた",
+    "kana": "ぱてぃおにいがた",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "見附市"
+  },
+  {
+    "name": "みつまた",
+    "kana": "みつまた",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "南魚沼郡湯沢町"
+  },
+  {
+    "name": "燕三条地場産センター",
+    "kana": "つばめさんじょうじばさんせんたー",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "三条市"
+  },
+  {
+    "name": "庭園の郷 保内",
+    "kana": "ていえんのさと ほない",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "三条市"
+  },
+  {
+    "name": "たがみ",
+    "kana": "たがみ",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "南蒲原郡田上町"
+  },
+  {
+    "name": "ながおか花火館",
+    "kana": "ながおかはなびかん",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "長岡市"
+  },
+  {
+    "name": "あがの",
+    "kana": "あがの",
+    "region": "北陸",
+    "prefecture": "新潟県",
+    "municipality": "阿賀野市"
+  }
+]

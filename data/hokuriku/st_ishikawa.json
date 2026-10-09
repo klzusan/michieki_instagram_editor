@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "name": "千枚田ポケットパーク",
+    "kana": "せんまいだぽけっとぱーく",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "輪島市"
+  },
+  {
+    "name": "高松",
+    "kana": "たかまつ",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "かほく市"
+  },
+  {
+    "name": "いおり",
+    "kana": "いおり",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "七尾市"
+  },
+  {
+    "name": "桜峠",
+    "kana": "さくらとうげ",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "鳳珠郡能登町"
+  },
+  {
+    "name": "しらやまさん",
+    "kana": "しらやまさん",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "能美市"
+  },
+  {
+    "name": "なかじまロマン峠",
+    "kana": "なかじまろまんとうげ",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "七尾市"
+  },
+  {
+    "name": "赤神",
+    "kana": "あかがみ",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "輪島市"
+  },
+  {
+    "name": "とぎ海街道",
+    "kana": "とぎうみかいどう",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "羽咋郡志賀町"
+  },
+  {
+    "name": "輪島",
+    "kana": "わしま",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "輪島市"
+  },
+  {
+    "name": "ころ柿の里しか",
+    "kana": "ころかきのさとしか",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "羽咋郡志賀町"
+  },
+  {
+    "name": "瀬女",
+    "kana": "せな",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "白山市"
+  },
+  {
+    "name": "一向一揆の里",
+    "kana": "いっこういっきのさと",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "白山市"
+  },
+  {
+    "name": "のと里山空港",
+    "kana": "のとさとやまくうこう",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "輪島市"
+  },
+  {
+    "name": "倶利伽羅　源平の郷",
+    "kana": "くりから　げんぺいのさと",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "河北郡津幡町"
+  },
+  {
+    "name": "山中温泉　ゆけむり健康村",
+    "kana": "さんちゅうおんせん　ゆけむりけんこうむら",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "加賀市"
+  },
+  {
+    "name": "のとじま",
+    "kana": "のとじま",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "七尾市"
+  },
+  {
+    "name": "すず塩田村",
+    "kana": "すずしおだむら",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "珠洲市"
+  },
+  {
+    "name": "内灘サンセットパーク",
+    "kana": "うちなださんせっとぱーく",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "河北郡内灘町"
+  },
+  {
+    "name": "能登食祭市場",
+    "kana": "のとしょくまつりしじょう",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "七尾市"
+  },
+  {
+    "name": "こまつ木場潟",
+    "kana": "こまつきばかた",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "小松市"
+  },
+  {
+    "name": "狼煙",
+    "kana": "のろし",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "珠洲市"
+  },
+  {
+    "name": "すずなり",
+    "kana": "すずなり",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "珠洲市"
+  },
+  {
+    "name": "織姫の里なかのと",
+    "kana": "おりひめのさとなかのと",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "鹿島郡中能登町"
+  },
+  {
+    "name": "あなみず",
+    "kana": "あなみず",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "鳳珠郡穴水町"
+  },
+  {
+    "name": "のと千里浜",
+    "kana": "のとちりはま",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "羽咋市"
+  },
+  {
+    "name": "めぐみ白山",
+    "kana": "めぐみはくさん",
+    "region": "北陸",
+    "prefecture": "石川県",
+    "municipality": "白山市"
+  }
+]

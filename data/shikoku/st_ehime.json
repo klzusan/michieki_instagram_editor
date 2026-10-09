@@ -1,1 +1,205 @@
-[]
+[
+  {
+    "name": "佐田岬半島ミュージアム",
+    "kana": "さだみさきはんしまみゅーじあむ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "西宇和郡伊方町"
+  },
+  {
+    "name": "マイントピア別子",
+    "kana": "まいんとぴあべっし",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "新居浜市"
+  },
+  {
+    "name": "日吉夢産地",
+    "kana": "ひよしゆめさんち",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "北宇和郡鬼北町"
+  },
+  {
+    "name": "ひろた",
+    "kana": "ひろた",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "伊予郡砥部町"
+  },
+  {
+    "name": "ふたみ",
+    "kana": "ふたみ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "伊予市"
+  },
+  {
+    "name": "内子フレッシュパークからり",
+    "kana": "うちこふれっしゅぱーくからり",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "喜多郡内子町"
+  },
+  {
+    "name": "伊方きらら館",
+    "kana": "いかたきららかん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "西宇和郡伊方町"
+  },
+  {
+    "name": "きなはい屋しろかわ",
+    "kana": "きなはいやしろかわ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "西予市"
+  },
+  {
+    "name": "みしょうＭＩＣ",
+    "kana": "みしょうＭＩＣ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "南宇和郡愛南町"
+  },
+  {
+    "name": "今治湯ノ浦温泉",
+    "kana": "いまばりゆのうらおんせん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "今治市"
+  },
+  {
+    "name": "虹の森公園まつの",
+    "kana": "にじのもりこうえんまつの",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "北宇和郡松野町"
+  },
+  {
+    "name": "広見森の三角ぼうし",
+    "kana": "ひろみもりのさんかくぼうし",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "北宇和郡鬼北町"
+  },
+  {
+    "name": "伯方Ｓ・Ｃパーク",
+    "kana": "はかたＳ・Ｃぱーく",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "今治市"
+  },
+  {
+    "name": "今治市多々羅しまなみ公園",
+    "kana": "いまばりしたたらしまなみこうえん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "今治市"
+  },
+  {
+    "name": "しまなみの駅御島",
+    "kana": "しまなみのえきおしま",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "今治市"
+  },
+  {
+    "name": "小松オアシス",
+    "kana": "こまつおあしす",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "西条市"
+  },
+  {
+    "name": "みかわ",
+    "kana": "みかわ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "上浮穴郡久万高原町"
+  },
+  {
+    "name": "清流の里ひじかわ",
+    "kana": "せいりゅうのさとひじかわ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "大洲市"
+  },
+  {
+    "name": "よしうみいきいき館",
+    "kana": "よしうみいきいきかん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "今治市"
+  },
+  {
+    "name": "風早の郷風和里",
+    "kana": "かざはやのさとかぜわさと",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "松山市"
+  },
+  {
+    "name": "みま",
+    "kana": "みま",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "宇和島市"
+  },
+  {
+    "name": "小田の郷せせらぎ",
+    "kana": "おだのさとせせらぎ",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "喜多郡内子町"
+  },
+  {
+    "name": "うわじま　きさいや広場",
+    "kana": "うわじま　きさいやひろば",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "宇和島市"
+  },
+  {
+    "name": "霧の森",
+    "kana": "きりのもり",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "四国中央市"
+  },
+  {
+    "name": "八幡浜みなっと",
+    "kana": "やわたはまみなっと",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "八幡浜市"
+  },
+  {
+    "name": "津島熱田温泉",
+    "kana": "つしまあつたおんせん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "宇和島市"
+  },
+  {
+    "name": "どんぶり館",
+    "kana": "どんぶりかん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "西予市"
+  },
+  {
+    "name": "天空の郷さんさん",
+    "kana": "てんくうのさとさんさん",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "上浮穴郡久万高原町"
+  },
+  {
+    "name": "なかやま",
+    "kana": "なかやま",
+    "region": "四国",
+    "prefecture": "愛媛県",
+    "municipality": "伊予市"
+  }
+]

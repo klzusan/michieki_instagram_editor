@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "name": "月山",
+    "kana": "がっさん",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "鶴岡市"
+  },
+  {
+    "name": "河北",
+    "kana": "かほく",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西村山郡河北町"
+  },
+  {
+    "name": "寒河江",
+    "kana": "さがえ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "寒河江市"
+  },
+  {
+    "name": "あつみ",
+    "kana": "あつみ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "鶴岡市"
+  },
+  {
+    "name": "にしかわ",
+    "kana": "にしかわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西村山郡西川町"
+  },
+  {
+    "name": "いいで",
+    "kana": "いいで",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西置賜郡飯豊町"
+  },
+  {
+    "name": "むらやま",
+    "kana": "むらやま",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "村山市"
+  },
+  {
+    "name": "とざわ",
+    "kana": "とざわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "最上郡戸沢村"
+  },
+  {
+    "name": "鳥海",
+    "kana": "ちょうかい",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "飽海郡遊佐町"
+  },
+  {
+    "name": "田沢",
+    "kana": "たざわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "米沢市"
+  },
+  {
+    "name": "白い森おぐに",
+    "kana": "しろいもりおぐに",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西置賜郡小国町"
+  },
+  {
+    "name": "おおえ",
+    "kana": "おおえ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西村山郡大江町"
+  },
+  {
+    "name": "庄内みかわ",
+    "kana": "しょうないみかわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "東田川郡三川町"
+  },
+  {
+    "name": "たかはた",
+    "kana": "たかはた",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "東置賜郡高畠町"
+  },
+  {
+    "name": "天童温泉",
+    "kana": "てんどうおんせん",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "天童市"
+  },
+  {
+    "name": "尾花沢",
+    "kana": "おばなざわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "尾花沢市"
+  },
+  {
+    "name": "白鷹ヤナ公園",
+    "kana": "しらたかやなこうえん",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西置賜郡白鷹町"
+  },
+  {
+    "name": "あさひまち",
+    "kana": "あさひまち",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "西村山郡朝日町"
+  },
+  {
+    "name": "しょうない",
+    "kana": "しょうない",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "東田川郡庄内町"
+  },
+  {
+    "name": "川のみなと長井",
+    "kana": "かわのみなとながい",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "長井市"
+  },
+  {
+    "name": "米沢",
+    "kana": "よねざわ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "米沢市"
+  },
+  {
+    "name": "やまがた蔵王",
+    "kana": "やまがたざおう",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "山形市"
+  },
+  {
+    "name": "もがみ",
+    "kana": "もがみ",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "最上町"
+  },
+  {
+    "name": "新庄エコロジーガーデン原蚕の杜",
+    "kana": "しんじょうえころじーがーでんはらかいこのもり",
+    "region": "東北",
+    "prefecture": "山形県",
+    "municipality": "新庄市"
+  }
+]

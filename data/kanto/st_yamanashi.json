@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "name": "とみざわ",
+    "kana": "とみざわ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡南部町"
+  },
+  {
+    "name": "甲斐大和",
+    "kana": "かいやまと",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "甲州市"
+  },
+  {
+    "name": "なるさわ",
+    "kana": "なるさわ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南都留郡鳴沢村"
+  },
+  {
+    "name": "みとみ",
+    "kana": "みとみ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "山梨市"
+  },
+  {
+    "name": "しもべ",
+    "kana": "しもべ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡身延町"
+  },
+  {
+    "name": "とよとみ",
+    "kana": "とよとみ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "中央市"
+  },
+  {
+    "name": "にらさき",
+    "kana": "にらさき",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "韮崎市"
+  },
+  {
+    "name": "どうし",
+    "kana": "どうし",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南都留郡道志村"
+  },
+  {
+    "name": "かつやま",
+    "kana": "かつやま",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南都留郡富士河口湖町"
+  },
+  {
+    "name": "花かげの郷まきおか",
+    "kana": "はなかげのさとまきおか",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "山梨市"
+  },
+  {
+    "name": "はくしゅう",
+    "kana": "はくしゅう",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "北杜市"
+  },
+  {
+    "name": "富士吉田",
+    "kana": "ふじよしだ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "富士吉田市"
+  },
+  {
+    "name": "南きよさと",
+    "kana": "みなみきよさと",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "北杜市"
+  },
+  {
+    "name": "しらね",
+    "kana": "しらね",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南アルプス市"
+  },
+  {
+    "name": "こぶちさわ",
+    "kana": "こぶちさわ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "北杜市"
+  },
+  {
+    "name": "みのぶ",
+    "kana": "みのぶ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡身延町"
+  },
+  {
+    "name": "たばやま",
+    "kana": "たばやま",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "北都留郡丹波山村"
+  },
+  {
+    "name": "富士川",
+    "kana": "ふじがわ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡富士川町"
+  },
+  {
+    "name": "こすげ",
+    "kana": "こすげ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "北都留郡小菅村"
+  },
+  {
+    "name": "つる",
+    "kana": "つる",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "都留市"
+  },
+  {
+    "name": "なんぶ",
+    "kana": "なんぶ",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡南部町"
+  },
+  {
+    "name": "にしじま和紙の里かみすきパーク",
+    "kana": "にしじまわしのさとかみすきぱーく",
+    "region": "関東",
+    "prefecture": "山梨県",
+    "municipality": "南巨摩郡身延町"
+  }
+]

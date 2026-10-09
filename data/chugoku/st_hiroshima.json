@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "name": "リストアステーション",
+    "kana": "りすとあすてーしょん",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "庄原市"
+  },
+  {
+    "name": "遊ＹＯＵさろん東城",
+    "kana": "ゆうＹＯＵさろんとうじょう",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "庄原市"
+  },
+  {
+    "name": "さんわ182ステーション",
+    "kana": "さんわ182すてーしょん",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "神石郡神石高原町"
+  },
+  {
+    "name": "豊平どんぐり村",
+    "kana": "とよひらどんぐりむら",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "山県郡北広島町"
+  },
+  {
+    "name": "来夢とごうち",
+    "kana": "らいむとごうち",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "山県郡安芸太田町"
+  },
+  {
+    "name": "よがんす白竜",
+    "kana": "よがんすはくりゅう",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "三原市"
+  },
+  {
+    "name": "アリストぬまくま",
+    "kana": "ありすとぬまくま",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "福山市"
+  },
+  {
+    "name": "スパ羅漢",
+    "kana": "すぱらかん",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "廿日市市"
+  },
+  {
+    "name": "ゆめランド布野",
+    "kana": "ゆめらんどふの",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "三次市"
+  },
+  {
+    "name": "ふぉレスト君田",
+    "kana": "ふぉれすときみた",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "三次市"
+  },
+  {
+    "name": "クロスロードみつぎ",
+    "kana": "くろすろーどみつぎ",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "尾道市"
+  },
+  {
+    "name": "舞ロードＩＣ千代田",
+    "kana": "まいろーどＩＣちよだ",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "山県郡北広島町"
+  },
+  {
+    "name": "北の関宿安芸高田",
+    "kana": "きたのせきやどあきたかた",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "安芸高田市"
+  },
+  {
+    "name": "湖畔の里福富",
+    "kana": "こはんのさとふくとみ",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "東広島市"
+  },
+  {
+    "name": "たけはら",
+    "kana": "たけはら",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "竹原市"
+  },
+  {
+    "name": "みはら神明の里",
+    "kana": "みはらじんめいのさと",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "三原市"
+  },
+  {
+    "name": "たかの",
+    "kana": "たかの",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "庄原市"
+  },
+  {
+    "name": "世羅",
+    "kana": "せら",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "世羅郡世羅町"
+  },
+  {
+    "name": "びんご府中",
+    "kana": "びんごふちゅう",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "府中市"
+  },
+  {
+    "name": "三矢の里あきたかた",
+    "kana": "みつやのさとあきたかた",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "安芸高田市"
+  },
+  {
+    "name": "西条のん太の酒蔵",
+    "kana": "さいじょうのんたのしゅぞう",
+    "region": "中国",
+    "prefecture": "広島県",
+    "municipality": "東広島市"
+  }
+]

@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "name": "高岡",
+    "kana": "たかおか",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "宮崎市"
+  },
+  {
+    "name": "北川はゆま",
+    "kana": "きたがわはゆま",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "延岡市"
+  },
+  {
+    "name": "青雲橋",
+    "kana": "せいうんはし",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "西臼杵郡日之影町"
+  },
+  {
+    "name": "山之口",
+    "kana": "やまのくち",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "都城市"
+  },
+  {
+    "name": "北浦",
+    "kana": "きたうら",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "延岡市"
+  },
+  {
+    "name": "田野",
+    "kana": "たの",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "宮崎市"
+  },
+  {
+    "name": "酒谷",
+    "kana": "さかや",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "日南市"
+  },
+  {
+    "name": "とうごう",
+    "kana": "とうごう",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "日向市"
+  },
+  {
+    "name": "都城NiQLL",
+    "kana": "とみしろNiQLL",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "都城市"
+  },
+  {
+    "name": "ゆ～ぱるのじり",
+    "kana": "ゆ～ぱるのじり",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "小林市"
+  },
+  {
+    "name": "なんごう",
+    "kana": "なんごう",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "日南市"
+  },
+  {
+    "name": "日向",
+    "kana": "ひゅうが",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "日向市"
+  },
+  {
+    "name": "高千穂",
+    "kana": "たかちほ",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "西臼杵郡高千穂町"
+  },
+  {
+    "name": "フェニックス",
+    "kana": "ふぇにっくす",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "宮崎市"
+  },
+  {
+    "name": "つの",
+    "kana": "つの",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "児湯郡都農町"
+  },
+  {
+    "name": "えびの",
+    "kana": "えびの",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "えびの市"
+  },
+  {
+    "name": "北方よっちみろ屋",
+    "kana": "ほっぽうよっちみろや",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "延岡市"
+  },
+  {
+    "name": "くしま",
+    "kana": "くしま",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "串間市"
+  },
+  {
+    "name": "きたごう",
+    "kana": "きたごう",
+    "region": "九州・沖縄",
+    "prefecture": "宮崎県",
+    "municipality": "日南市"
+  }
+]

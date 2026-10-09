@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "name": "大栄",
+    "kana": "だいえい",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡北栄町"
+  },
+  {
+    "name": "三朝・楽市楽座",
+    "kana": "みささ・らくいちらくざ",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡三朝町"
+  },
+  {
+    "name": "ほうじょう",
+    "kana": "ほうじょう",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡北栄町"
+  },
+  {
+    "name": "ポート赤碕",
+    "kana": "ぽーとあかさき",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡琴浦町"
+  },
+  {
+    "name": "はっとう",
+    "kana": "はっとう",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "八頭郡八頭町"
+  },
+  {
+    "name": "犬挟",
+    "kana": "いぬきょう",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "倉吉市"
+  },
+  {
+    "name": "はわい",
+    "kana": "はわい",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡湯梨浜町"
+  },
+  {
+    "name": "神話の里　白うさぎ",
+    "kana": "しんわのさと　しろうさぎ",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "鳥取市"
+  },
+  {
+    "name": "清流茶屋　かわはら",
+    "kana": "せいりゅうちゃや　かわはら",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "鳥取市"
+  },
+  {
+    "name": "若桜",
+    "kana": "わかさ",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "八頭郡若桜町"
+  },
+  {
+    "name": "大山恵みの里",
+    "kana": "おおやまめぐみのさと",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "西伯郡大山町"
+  },
+  {
+    "name": "燕趙園",
+    "kana": "えんちょうその",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡湯梨浜町"
+  },
+  {
+    "name": "きなんせ岩美",
+    "kana": "きなんせいわみ",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "岩美郡岩美町"
+  },
+  {
+    "name": "奥大山",
+    "kana": "おくおおやま",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "日野郡江府町"
+  },
+  {
+    "name": "にちなん日野川の郷",
+    "kana": "にちなんひのかわのさと",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "日野郡日南町"
+  },
+  {
+    "name": "琴の浦",
+    "kana": "こんのうら",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "東伯郡琴浦町"
+  },
+  {
+    "name": "西いなば 気楽里",
+    "kana": "にしいなば きらくさと",
+    "region": "中国",
+    "prefecture": "鳥取県",
+    "municipality": "鳥取市"
+  }
+]

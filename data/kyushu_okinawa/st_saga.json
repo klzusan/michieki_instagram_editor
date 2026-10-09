@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "name": "鹿島",
+    "kana": "かしま",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "鹿島市"
+  },
+  {
+    "name": "厳木",
+    "kana": "きゅうらぎ",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "唐津市"
+  },
+  {
+    "name": "伊万里",
+    "kana": "いまり",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "伊万里市"
+  },
+  {
+    "name": "桃山天下市",
+    "kana": "ももやまてんかし",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "唐津市"
+  },
+  {
+    "name": "山内",
+    "kana": "やまうち",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "武雄市"
+  },
+  {
+    "name": "大和",
+    "kana": "やまと",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "佐賀市"
+  },
+  {
+    "name": "吉野ヶ里",
+    "kana": "よしのゖさと",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "神埼郡吉野ヶ里町"
+  },
+  {
+    "name": "太良",
+    "kana": "たろう",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "藤津郡太良町"
+  },
+  {
+    "name": "しろいし",
+    "kana": "しろいし",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "杵島郡白石町"
+  },
+  {
+    "name": "うれしの まるく",
+    "kana": "うれしの まるく",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "嬉野市"
+  },
+  {
+    "name": "かみみね",
+    "kana": "かみみね",
+    "region": "九州・沖縄",
+    "prefecture": "佐賀県",
+    "municipality": "三養基郡上峰町"
+  }
+]

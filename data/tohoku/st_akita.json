@@ -1,1 +1,240 @@
-[]
+[
+  {
+    "name": "たかのす",
+    "kana": "たかのす",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "北秋田市"
+  },
+  {
+    "name": "ふたつい",
+    "kana": "ふたつい",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "能代市"
+  },
+  {
+    "name": "にしめ",
+    "kana": "にしめ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "由利本荘市"
+  },
+  {
+    "name": "やたて峠",
+    "kana": "やたてとうげ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "大館市"
+  },
+  {
+    "name": "はちもり",
+    "kana": "はちもり",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "山本郡八峰町"
+  },
+  {
+    "name": "かづの",
+    "kana": "かづの",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "鹿角市"
+  },
+  {
+    "name": "かみおか",
+    "kana": "かみおか",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "大仙市"
+  },
+  {
+    "name": "ことおか",
+    "kana": "ことおか",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "山本郡三種町"
+  },
+  {
+    "name": "東由利",
+    "kana": "ひがしゆり",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "由利本荘市"
+  },
+  {
+    "name": "かみこあに",
+    "kana": "かみこあに",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "北秋田郡上小阿仁村"
+  },
+  {
+    "name": "象潟",
+    "kana": "きさかた",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "にかほ市"
+  },
+  {
+    "name": "なかせん",
+    "kana": "なかせん",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "大仙市"
+  },
+  {
+    "name": "おがち",
+    "kana": "おがち",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "湯沢市"
+  },
+  {
+    "name": "てんのう",
+    "kana": "てんのう",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "潟上市"
+  },
+  {
+    "name": "岩城",
+    "kana": "いわき",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "由利本荘市"
+  },
+  {
+    "name": "しょうわ",
+    "kana": "しょうわ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "潟上市"
+  },
+  {
+    "name": "みねはま",
+    "kana": "みねはま",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "山本郡八峰町"
+  },
+  {
+    "name": "さんない",
+    "kana": "さんない",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "横手市"
+  },
+  {
+    "name": "おおうち",
+    "kana": "おおうち",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "由利本荘市"
+  },
+  {
+    "name": "あに",
+    "kana": "あに",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "北秋田市"
+  },
+  {
+    "name": "ひない",
+    "kana": "ひない",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "大館市"
+  },
+  {
+    "name": "五城目",
+    "kana": "ごじょうめ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "南秋田郡五城目町"
+  },
+  {
+    "name": "清水の里・鳥海郷",
+    "kana": "しみずのさと・ちょうかいさと",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "由利本荘市"
+  },
+  {
+    "name": "美郷",
+    "kana": "みさと",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "仙北郡美郷町"
+  },
+  {
+    "name": "協和",
+    "kana": "きょうわ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "大仙市"
+  },
+  {
+    "name": "十文字",
+    "kana": "じゅうもんじ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "横手市"
+  },
+  {
+    "name": "おおがた",
+    "kana": "おおがた",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "南秋田郡大潟村"
+  },
+  {
+    "name": "あきた港",
+    "kana": "あきたみなと",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "秋田市"
+  },
+  {
+    "name": "こさか七滝",
+    "kana": "こさかしちたき",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "鹿角郡小坂町"
+  },
+  {
+    "name": "大館能代空港",
+    "kana": "おおだてのしろくうこう",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "北秋田市"
+  },
+  {
+    "name": "うご",
+    "kana": "うご",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "雄勝郡羽後町"
+  },
+  {
+    "name": "おおゆ",
+    "kana": "おおゆ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "鹿角市"
+  },
+  {
+    "name": "おが",
+    "kana": "おが",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "男鹿市"
+  },
+  {
+    "name": "十和田湖",
+    "kana": "とわだこ",
+    "region": "東北",
+    "prefecture": "秋田県",
+    "municipality": "鹿角郡小坂町"
+  }
+]

@@ -1,1 +1,261 @@
-[]
+[
+  {
+    "name": "つちゆ",
+    "kana": "つちゆ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "福島市"
+  },
+  {
+    "name": "川俣",
+    "kana": "かわまた",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "伊達郡川俣町"
+  },
+  {
+    "name": "たじま",
+    "kana": "たじま",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南会津郡南会津町"
+  },
+  {
+    "name": "安達",
+    "kana": "あだち",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "二本松市"
+  },
+  {
+    "name": "喜多の郷",
+    "kana": "きたのさと",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "喜多方市"
+  },
+  {
+    "name": "裏磐梯",
+    "kana": "うらばんだい",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "耶麻郡北塩原村"
+  },
+  {
+    "name": "ならは",
+    "kana": "ならは",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "双葉郡楢葉町"
+  },
+  {
+    "name": "そうま",
+    "kana": "そうま",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "相馬市"
+  },
+  {
+    "name": "はなわ",
+    "kana": "はなわ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "東白川郡塙町"
+  },
+  {
+    "name": "会津柳津",
+    "kana": "あいづやなつ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "河沼郡柳津町"
+  },
+  {
+    "name": "ふくしま東和",
+    "kana": "ふくしまとうわ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "二本松市"
+  },
+  {
+    "name": "にしあいづ",
+    "kana": "にしあいづ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "耶麻郡西会津町"
+  },
+  {
+    "name": "尾瀬街道みしま宿",
+    "kana": "おぜかいどうみしまやど",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "大沼郡三島町"
+  },
+  {
+    "name": "たまかわ",
+    "kana": "たまかわ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "石川郡玉川村"
+  },
+  {
+    "name": "羽鳥湖高原",
+    "kana": "はとりみずうみこうげん",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "岩瀬郡天栄村"
+  },
+  {
+    "name": "南相馬",
+    "kana": "みなみそうま",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南相馬市"
+  },
+  {
+    "name": "しもごう",
+    "kana": "しもごう",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南会津郡下郷町"
+  },
+  {
+    "name": "ひらた",
+    "kana": "ひらた",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "石川郡平田村"
+  },
+  {
+    "name": "よつくら港",
+    "kana": "よつくらみなと",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "いわき市"
+  },
+  {
+    "name": "ばんだい",
+    "kana": "ばんだい",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "耶麻郡磐梯町"
+  },
+  {
+    "name": "ふるどの",
+    "kana": "ふるどの",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "石川郡古殿町"
+  },
+  {
+    "name": "番屋",
+    "kana": "ばんや",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南会津郡南会津町"
+  },
+  {
+    "name": "季の里天栄",
+    "kana": "きのさとてんえい",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "岩瀬郡天栄村"
+  },
+  {
+    "name": "きらら２８９",
+    "kana": "きらら２８９",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南会津郡南会津町"
+  },
+  {
+    "name": "奥会津かねやま",
+    "kana": "おくあいづかねやま",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "大沼郡金山町"
+  },
+  {
+    "name": "さくらの郷",
+    "kana": "さくらのさと",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "二本松市"
+  },
+  {
+    "name": "あいづ　湯川・会津坂下",
+    "kana": "あいづ　ゆかわ・あいづばんげ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "河沼郡湯川村"
+  },
+  {
+    "name": "からむし織の里しょうわ",
+    "kana": "からむししょくのさとしょうわ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "大沼郡昭和村"
+  },
+  {
+    "name": "猪苗代",
+    "kana": "いなわしろ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "耶麻郡猪苗代町"
+  },
+  {
+    "name": "国見　あつかしの郷",
+    "kana": "くにみ　あつかしのさと",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "伊達郡国見町"
+  },
+  {
+    "name": "いいたて村の道の駅までい館",
+    "kana": "いいたてむらのみちのえきまでいかん",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "相馬郡飯舘村"
+  },
+  {
+    "name": "尾瀬檜枝岐",
+    "kana": "おぜひえき",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "南会津郡檜枝岐村"
+  },
+  {
+    "name": "伊達の郷りょうぜん",
+    "kana": "だてのさとりょうぜん",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "伊達市"
+  },
+  {
+    "name": "なみえ",
+    "kana": "なみえ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "双葉郡浪江町"
+  },
+  {
+    "name": "ふくしま",
+    "kana": "ふくしま",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "福島市"
+  },
+  {
+    "name": "いわき・ら・ら・ミュウ",
+    "kana": "いわき・ら・ら・みゅう",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "いわき市"
+  },
+  {
+    "name": "石川",
+    "kana": "いしかわ",
+    "region": "東北",
+    "prefecture": "福島県",
+    "municipality": "石川町"
+  }
+]

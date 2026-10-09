@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "name": "生月大橋",
+    "kana": "いきつきおおはし",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "平戸市"
+  },
+  {
+    "name": "ひまわり",
+    "kana": "ひまわり",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "南島原市"
+  },
+  {
+    "name": "昆虫の里たびら",
+    "kana": "こんちゅうのさとたびら",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "平戸市"
+  },
+  {
+    "name": "彼杵の荘",
+    "kana": "そのぎのそう",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "東彼杵郡東彼杵町"
+  },
+  {
+    "name": "さいかい",
+    "kana": "さいかい",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "西海市"
+  },
+  {
+    "name": "夕陽が丘そとめ",
+    "kana": "ゆうひがおかそとめ",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "長崎市"
+  },
+  {
+    "name": "松浦海のふるさと館",
+    "kana": "まつうらうみのふるさとかん",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "松浦市"
+  },
+  {
+    "name": "遣唐使ふるさと館",
+    "kana": "けんとうしふるさとかん",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "五島市"
+  },
+  {
+    "name": "鷹ら島",
+    "kana": "たからしま",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "松浦市"
+  },
+  {
+    "name": "させぼっくす　９９",
+    "kana": "させぼっくす　９９",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "佐世保市"
+  },
+  {
+    "name": "長崎街道鈴田峠",
+    "kana": "ながさきかいどうすずたとうげ",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "大村市"
+  },
+  {
+    "name": "２５１いいもりじゃがーロード",
+    "kana": "２５１いいもりじゃがーろーど",
+    "region": "九州・沖縄",
+    "prefecture": "長崎県",
+    "municipality": "諫早市"
+  }
+]

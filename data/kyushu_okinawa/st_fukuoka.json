@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "name": "原鶴",
+    "kana": "はらつる",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "朝倉市"
+  },
+  {
+    "name": "豊前おこしかけ",
+    "kana": "ぶぜんおこしかけ",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "豊前市"
+  },
+  {
+    "name": "小石原",
+    "kana": "こいしわら",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "朝倉郡東峰村"
+  },
+  {
+    "name": "しんよしとみ",
+    "kana": "しんよしとみ",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "築上郡上毛町"
+  },
+  {
+    "name": "うきは",
+    "kana": "うきは",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "うきは市"
+  },
+  {
+    "name": "おおむた",
+    "kana": "おおむた",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "大牟田市"
+  },
+  {
+    "name": "たちばな",
+    "kana": "たちばな",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "八女市"
+  },
+  {
+    "name": "うすい",
+    "kana": "うすい",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "嘉麻市"
+  },
+  {
+    "name": "歓遊舎ひこさん",
+    "kana": "かんゆうしゃひこさん",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "田川郡添田町"
+  },
+  {
+    "name": "むなかた",
+    "kana": "むなかた",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "宗像市"
+  },
+  {
+    "name": "くるめ",
+    "kana": "くるめ",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "久留米市"
+  },
+  {
+    "name": "香春",
+    "kana": "こうしゅん",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "田川郡香春町"
+  },
+  {
+    "name": "おおき",
+    "kana": "おおき",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "三潴郡大木町"
+  },
+  {
+    "name": "おおとう桜街道",
+    "kana": "おおとうさくらかいどう",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "田川郡大任町"
+  },
+  {
+    "name": "みやま",
+    "kana": "みやま",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "みやま市"
+  },
+  {
+    "name": "いとだ",
+    "kana": "いとだ",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "田川郡糸田町"
+  },
+  {
+    "name": "筑前みなみの里",
+    "kana": "ちくぜんみなみのさと",
+    "region": "九州・沖縄",
+    "prefecture": "福岡県",
+    "municipality": "朝倉郡筑前町"
+  }
+]

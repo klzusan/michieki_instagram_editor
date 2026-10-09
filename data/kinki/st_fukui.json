@@ -1,42 +1,149 @@
 [
   {
+    "name": "河野",
+    "kana": "こうの",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "南条郡南越前町"
+  },
+  {
     "name": "九頭竜",
     "kana": "くずりゅう",
-    "region": "北陸",
+    "region": "近畿",
     "prefecture": "福井県",
-    "municipality": "大野市",
-    "number": "01"
+    "municipality": "大野市"
   },
   {
-    "name": "越前",
-    "kana": "えちぜん",
-    "region": "北陸",
+    "name": "パークイン丹生ヶ丘",
+    "kana": "ぱーくいんたんじょうゖおか",
+    "region": "近畿",
     "prefecture": "福井県",
-    "municipality": "越前町",
-    "number": "02"
+    "municipality": "丹生郡越前町"
   },
   {
-    "name": "若狭おばま",
-    "kana": "わかさおばま",
-    "region": "北陸",
+    "name": "名田庄",
+    "kana": "なたしょう",
+    "region": "近畿",
     "prefecture": "福井県",
-    "municipality": "小浜市",
-    "number": "03"
+    "municipality": "大飯郡おおい町"
   },
   {
-    "name": "うみんぴあ大飯",
-    "kana": "うみんぴあおおい",
-    "region": "北陸",
+    "name": "みくに",
+    "kana": "みくに",
+    "region": "近畿",
     "prefecture": "福井県",
-    "municipality": "おおい町",
-    "number": "04"
+    "municipality": "坂井市"
+  },
+  {
+    "name": "若狭熊川宿",
+    "kana": "わかさくまかわやど",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "三方上中郡若狭町"
+  },
+  {
+    "name": "さかい",
+    "kana": "さかい",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "坂井市"
   },
   {
     "name": "シーサイド高浜",
     "kana": "しーさいどたかはま",
-    "region": "北陸",
+    "region": "近畿",
     "prefecture": "福井県",
-    "municipality": "高浜町",
-    "number": "05"
+    "municipality": "大飯郡高浜町"
+  },
+  {
+    "name": "若狭おばま",
+    "kana": "わかさおばま",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "小浜市"
+  },
+  {
+    "name": "うみんぴあ大飯",
+    "kana": "うみんぴあおおい",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "大飯郡おおい町"
+  },
+  {
+    "name": "西山公園",
+    "kana": "にしやまこうえん",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "鯖江市"
+  },
+  {
+    "name": "越前",
+    "kana": "えちぜん",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "丹生郡越前町"
+  },
+  {
+    "name": "三方五湖",
+    "kana": "みかたごみずうみ",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "三方上中郡若狭町"
+  },
+  {
+    "name": "一乗谷あさくら水の駅",
+    "kana": "いちじょうたにあさくらみずのえき",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "福井市"
+  },
+  {
+    "name": "禅の里",
+    "kana": "ぜんのさと",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "吉田郡永平寺町"
+  },
+  {
+    "name": "恐竜渓谷かつやま",
+    "kana": "きょうりゅうけいこくかつやま",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "勝山市"
+  },
+  {
+    "name": "越前おおの荒島の郷",
+    "kana": "えちぜんおおのこうしまのさと",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "大野市"
+  },
+  {
+    "name": "南えちぜん山海里",
+    "kana": "みなみえちぜんさんかいさと",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "南条郡南越前町"
+  },
+  {
+    "name": "越前たけふ",
+    "kana": "えちぜんたけふ",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "越前市"
+  },
+  {
+    "name": "蓮如の里あわら",
+    "kana": "れんにょのさとあわら",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "あわら市"
+  },
+  {
+    "name": "若狭美浜はまびより",
+    "kana": "わかさみはまはまびより",
+    "region": "近畿",
+    "prefecture": "福井県",
+    "municipality": "三方郡美浜町"
   }
 ]

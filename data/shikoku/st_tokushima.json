@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "name": "貞光ゆうゆう館",
+    "kana": "さだみつゆうゆうかん",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "美馬郡つるぎ町"
+  },
+  {
+    "name": "鷲の里",
+    "kana": "わしのさと",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "那賀郡那賀町"
+  },
+  {
+    "name": "宍喰温泉",
+    "kana": "ししくいおんせん",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "海部郡海陽町"
+  },
+  {
+    "name": "どなり",
+    "kana": "どなり",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "阿波市"
+  },
+  {
+    "name": "にしいや",
+    "kana": "にしいや",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "三好市"
+  },
+  {
+    "name": "わじき",
+    "kana": "わじき",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "那賀郡那賀町"
+  },
+  {
+    "name": "公方の郷なかがわ",
+    "kana": "くぼうのさとなかがわ",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "阿南市"
+  },
+  {
+    "name": "もみじ川温泉",
+    "kana": "もみじかわおんせん",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "那賀郡那賀町"
+  },
+  {
+    "name": "温泉の里神山",
+    "kana": "おんせんのさとかみやま",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "名西郡神山町"
+  },
+  {
+    "name": "藍ランドうだつ",
+    "kana": "あいらんどうだつ",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "美馬市"
+  },
+  {
+    "name": "三野",
+    "kana": "みの",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "三好市"
+  },
+  {
+    "name": "日和佐",
+    "kana": "ひわさ",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "海部郡美波町"
+  },
+  {
+    "name": "第九の里",
+    "kana": "だいくのさと",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "鳴門市"
+  },
+  {
+    "name": "大歩危",
+    "kana": "おおぼけ",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "三好市"
+  },
+  {
+    "name": "ひなの里かつうら",
+    "kana": "ひなのさとかつうら",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "勝浦郡勝浦町"
+  },
+  {
+    "name": "みまの里",
+    "kana": "みまのさと",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "美馬市"
+  },
+  {
+    "name": "いたの",
+    "kana": "いたの",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "板野郡板野町"
+  },
+  {
+    "name": "くるくる なると",
+    "kana": "くるくる なると",
+    "region": "四国",
+    "prefecture": "徳島県",
+    "municipality": "鳴門市"
+  }
+]

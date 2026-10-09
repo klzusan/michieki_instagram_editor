@@ -1,1 +1,191 @@
-[]
+[
+  {
+    "name": "富士",
+    "kana": "ふじ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "富士市"
+  },
+  {
+    "name": "くんま水車の里",
+    "kana": "くんますいしゃのさと",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "浜松市"
+  },
+  {
+    "name": "花の三聖苑伊豆松崎",
+    "kana": "はなのさんひじりえんいずまつざき",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "賀茂郡松崎町"
+  },
+  {
+    "name": "宇津ノ谷峠",
+    "kana": "うづのたにとうげ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "静岡市・藤枝市"
+  },
+  {
+    "name": "いっぷく処横川",
+    "kana": "いっぷくところよこかわ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "浜松市"
+  },
+  {
+    "name": "フォーレなかかわね茶茗舘",
+    "kana": "ふぉーれなかかわねちゃめいかん",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "榛原郡川根本町"
+  },
+  {
+    "name": "天城越え",
+    "kana": "あまぎこえ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "伊豆市"
+  },
+  {
+    "name": "奥大井音戯の郷",
+    "kana": "おくおおいおとぎのさと",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "榛原郡川根本町"
+  },
+  {
+    "name": "朝霧高原",
+    "kana": "あさぎりこうげん",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "富士宮市"
+  },
+  {
+    "name": "川根温泉",
+    "kana": "かわねおんせん",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "島田市"
+  },
+  {
+    "name": "富士川楽座",
+    "kana": "ふじがわらくざ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "富士市"
+  },
+  {
+    "name": "玉露の里",
+    "kana": "ぎょくろのさと",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "藤枝市"
+  },
+  {
+    "name": "天竜相津　花桃の里",
+    "kana": "てんりゅうあいづ　はなもものさと",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "浜松市"
+  },
+  {
+    "name": "伊東マリンタウン",
+    "kana": "いとうまりんたうん",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "伊東市"
+  },
+  {
+    "name": "開国下田みなと",
+    "kana": "かいこくしもだみなと",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "下田市"
+  },
+  {
+    "name": "掛川",
+    "kana": "かけがわ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "掛川市"
+  },
+  {
+    "name": "ふじおやま",
+    "kana": "ふじおやま",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "駿東郡小山町"
+  },
+  {
+    "name": "潮見坂",
+    "kana": "しおみさか",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "湖西市"
+  },
+  {
+    "name": "伊豆のへそ",
+    "kana": "いずのへそ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "伊豆の国市"
+  },
+  {
+    "name": "下賀茂温泉　湯の花",
+    "kana": "しもがもおんせん　ゆのはな",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "賀茂郡南伊豆町"
+  },
+  {
+    "name": "すばしり",
+    "kana": "すばしり",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "駿東郡小山町"
+  },
+  {
+    "name": "風のマルシェ　御前崎",
+    "kana": "かぜのまるしぇ　おまえざき",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "御前崎市"
+  },
+  {
+    "name": "くるら戸田",
+    "kana": "くるらとだ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "沼津市"
+  },
+  {
+    "name": "伊豆ゲートウェイ函南",
+    "kana": "いずげーとうぇいかんなみ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "田方郡函南町"
+  },
+  {
+    "name": "伊豆月ケ瀬",
+    "kana": "いずがつけせ",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "伊豆市"
+  },
+  {
+    "name": "そらっと牧之原",
+    "kana": "そらっとまきのはら",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "牧之原市"
+  },
+  {
+    "name": "ゆとりえせとや",
+    "kana": "ゆとりえせとや",
+    "region": "中部",
+    "prefecture": "静岡県",
+    "municipality": "藤枝市"
+  }
+]

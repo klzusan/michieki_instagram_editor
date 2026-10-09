@@ -1,10 +1,128 @@
 [
   {
+    "name": "瀬戸大橋記念公園",
+    "kana": "せとおおはしきねんこうえん",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "坂出市"
+  },
+  {
+    "name": "津田の松原",
+    "kana": "つだのまつばら",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "さぬき市"
+  },
+  {
+    "name": "ことひき",
+    "kana": "ことひき",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "観音寺市"
+  },
+  {
+    "name": "ふれあいパークみの",
+    "kana": "ふれあいぱーくみの",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "三豊市"
+  },
+  {
+    "name": "小豆島オリーブ公園",
+    "kana": "しょうずしまおりーぶこうえん",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "小豆郡小豆島町"
+  },
+  {
+    "name": "小豆島ふるさと村",
+    "kana": "しょうずしまふるさとむら",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "小豆郡小豆島町"
+  },
+  {
+    "name": "空の夢もみの木パーク",
+    "kana": "そらのゆめもみのきぱーく",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "仲多度郡まんのう町"
+  },
+  {
+    "name": "みろく",
+    "kana": "みろく",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "さぬき市"
+  },
+  {
+    "name": "しおのえ",
+    "kana": "しおのえ",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "高松市"
+  },
+  {
+    "name": "滝宮",
+    "kana": "たつのみや",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "綾歌郡綾川町"
+  },
+  {
+    "name": "ことなみ",
+    "kana": "ことなみ",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "仲多度郡まんのう町"
+  },
+  {
+    "name": "恋人の聖地　うたづ臨海公園",
+    "kana": "こいびとのせいち　うたづりんかいこうえん",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "綾歌郡宇多津町"
+  },
+  {
+    "name": "とよはま",
+    "kana": "とよはま",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "観音寺市"
+  },
+  {
+    "name": "たからだの里さいた",
+    "kana": "たからだのさとさいた",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "三豊市"
+  },
+  {
+    "name": "大坂城残石記念公園",
+    "kana": "おおさかしろざんいしきねんこうえん",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "小豆郡土庄町"
+  },
+  {
+    "name": "ながお",
+    "kana": "ながお",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "さぬき市"
+  },
+  {
+    "name": "香南楽湯",
+    "kana": "こうなんらくゆ",
+    "region": "四国",
+    "prefecture": "香川県",
+    "municipality": "高松市"
+  },
+  {
     "name": "源平の里むれ",
     "kana": "げんぺいのさとむれ",
     "region": "四国",
     "prefecture": "香川県",
-    "municipality": "高松市",
-    "number": "01"
+    "municipality": "高松市"
   }
 ]

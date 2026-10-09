@@ -1,162 +1,142 @@
 [
   {
-    "name": "アグリの郷栗東",
-    "kana": "あぐりのさとりっとう",
+    "name": "あいの土山",
+    "kana": "あいのつちやま",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "栗東市",
-    "number": "01"
+    "municipality": "甲賀市"
   },
   {
-    "name": "草津",
-    "kana": "くさつ",
+    "name": "くつき新本陣",
+    "kana": "くつきしんぽんじん",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "草津市",
-    "number": "02"
-  },
-  {
-    "name": "びわ湖大橋米プラザ",
-    "kana": "びわこおおはしこめぷらざ",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "大津市",
-    "number": "03"
-  },
-  {
-    "name": "妹子の郷",
-    "kana": "いもこのさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "大津市",
-    "number": "04"
-  },
-  {
-    "name": "あいとうマーガレットステーション",
-    "kana": "あいとうまーがれっとすてーしょん",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "東近江市",
-    "number": "05"
-  },
-  {
-    "name": "東近江市あいとうマーガレットステーション",
-    "kana": "ひがしおうみしあいとうまーがれっとすてーしょん",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "東近江市",
-    "number": "05"
-  },
-  {
-    "name": "奥永源寺渓流の里",
-    "kana": "おくえいげんじけいりゅうのさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "東近江市",
-    "number": "06"
-  },
-  {
-    "name": "藤樹の里あどがわ",
-    "kana": "とうじゅのさとあどがわ",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "高島市",
-    "number": "07"
+    "municipality": "高島市"
   },
   {
     "name": "しんあさひ風車村",
     "kana": "しんあさひふうしゃむら",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "高島市",
-    "number": "08"
+    "municipality": "高島市"
   },
   {
-    "name": "マキノ追坂峠",
-    "kana": "まきのおっさかとうげ",
+    "name": "東近江市あいとうマーガレットステーション",
+    "kana": "ひがしおうみしあいとうまーがれっとすてーしょん",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "高島市",
-    "number": "09"
+    "municipality": "東近江市"
   },
   {
-    "name": "湖北みずどりステーション",
-    "kana": "こほくみずどりすてーしょん",
+    "name": "びわ湖大橋米プラザ",
+    "kana": "びわみずうみおおはしこめぷらざ",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "長浜市",
-    "number": "10"
-  },
-  {
-    "name": "浅井三姉妹の郷",
-    "kana": "あざいさんしまいのおさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "長浜市",
-    "number": "11"
+    "municipality": "大津市"
   },
   {
     "name": "近江母の郷",
     "kana": "おうみははのさと",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "米原市",
-    "number": "12"
-  },
-  {
-    "name": "伊吹の里",
-    "kana": "いぶきのさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "米原市",
-    "number": "13"
-  },
-  {
-    "name": "竜王かがみの里",
-    "kana": "りゅうおうかがみのさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "竜王町",
-    "number": "14"
-  },
-  {
-    "name": "あいの土山",
-    "kana": "あいのつちやま",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "甲賀市",
-    "number": "15"
-  },
-  {
-    "name": "せせらぎの里こうら",
-    "kana": "せせらぎのさとこうら",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "甲良町",
-    "number": "16"
-  },
-  {
-    "name": "アグリパーク竜王",
-    "kana": "あぐりぱーくりゅうおう",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "竜王町",
-    "number": "17"
-  },
-  {
-    "name": "塩津海道あぢかまの里",
-    "kana": "しおつかいどうあぢかまのさと",
-    "region": "近畿",
-    "prefecture": "滋賀県",
-    "municipality": "長浜市",
-    "number": "18"
+    "municipality": "米原市"
   },
   {
     "name": "こんぜの里りっとう",
     "kana": "こんぜのさとりっとう",
     "region": "近畿",
     "prefecture": "滋賀県",
-    "municipality": "栗東市",
-    "number": "19"
+    "municipality": "栗東市"
+  },
+  {
+    "name": "湖北みずどりステーション",
+    "kana": "こほくみずどりすてーしょん",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "長浜市"
+  },
+  {
+    "name": "草津",
+    "kana": "くさつ",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "草津市"
+  },
+  {
+    "name": "竜王かがみの里",
+    "kana": "りゅうおうかがみのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "蒲生郡竜王町"
+  },
+  {
+    "name": "アグリの郷栗東",
+    "kana": "あぐりのさとりっとう",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "栗東市"
+  },
+  {
+    "name": "マキノ追坂峠",
+    "kana": "まきのついさかとうげ",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "高島市"
+  },
+  {
+    "name": "藤樹の里あどがわ",
+    "kana": "とうじゅのさとあどがわ",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "高島市"
+  },
+  {
+    "name": "伊吹の里",
+    "kana": "いぶきのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "米原市"
+  },
+  {
+    "name": "塩津海道あぢかまの里",
+    "kana": "しおずかいどうあぢかまのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "長浜市"
+  },
+  {
+    "name": "せせらぎの里こうら",
+    "kana": "せせらぎのさとこうら",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "犬上郡甲良町"
+  },
+  {
+    "name": "妹子の郷",
+    "kana": "いもこのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "大津市"
+  },
+  {
+    "name": "奥永源寺 渓流の里",
+    "kana": "おくながげんてら けいりゅうのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "東近江市"
+  },
+  {
+    "name": "アグリパーク竜王",
+    "kana": "あぐりぱーくりゅうおう",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "蒲生郡竜王町"
+  },
+  {
+    "name": "浅井三姉妹の郷",
+    "kana": "あさいさんしまいのさと",
+    "region": "近畿",
+    "prefecture": "滋賀県",
+    "municipality": "長浜市"
   }
 ]

@@ -950,11 +950,8 @@ input[type="text"]:focus, select:focus {
 
 .crop-action-btn {
   width: 100%;
-  margin-top: 0.2rem;
-  background: #fef2f2;
-  color: #dc2626;
-  border: 1px solid #fecaca;
-  padding: 0.3rem;
+  margin-top: 0.35rem;
+  padding: 0.35rem 0.5rem;
   border-radius: var(--radius-sm);
   font-size: 0.72rem;
   font-weight: 700;
@@ -966,8 +963,33 @@ input[type="text"]:focus, select:focus {
   transition: all var(--transition-fast);
 }
 
-.crop-action-btn:hover {
+.crop-action-btn.btn-warn-crop {
+  background: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+.crop-action-btn.btn-warn-crop:hover {
   background: #dc2626;
+  color: white;
+}
+
+.crop-action-btn.btn-square-crop {
+  background: #f8fafc;
+  color: #475569;
+  border: 1px solid #cbd5e1;
+}
+.crop-action-btn.btn-square-crop:hover {
+  background: #334155;
+  color: white;
+}
+
+.crop-action-btn.btn-recrop {
+  background: #eff6ff;
+  color: #2563eb;
+  border: 1px solid #bfdbfe;
+}
+.crop-action-btn.btn-recrop:hover {
+  background: #2563eb;
   color: white;
 }
 
@@ -1038,8 +1060,13 @@ input[type="text"]:focus, select:focus {
   color: var(--color-text-muted);
 }
 
+.modal-card-crop {
+  max-width: 640px;
+}
+
 .cropper-container-wrapper {
-  max-height: 400px;
+  max-height: 420px;
+  min-height: 280px;
   background: #0f172a;
   border-radius: var(--radius-md);
   overflow: hidden;
@@ -1053,13 +1080,139 @@ input[type="text"]:focus, select:focus {
   display: block;
 }
 
+/* Crop Rotation Controls */
+.crop-rotation-controls {
+  background: #f8fafc;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.crop-rotation-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.crop-rotation-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--color-text-main);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.crop-rotation-value {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  background: #eef2ff;
+  border: 1px solid #c7d2fe;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-sm);
+  min-width: 52px;
+  text-align: center;
+}
+
+.crop-rotation-slider-row {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.crop-slider {
+  flex: 1;
+  height: 6px;
+  border-radius: 3px;
+  background: #e2e8f0;
+  outline: none;
+  cursor: pointer;
+  accent-color: var(--color-primary);
+}
+
+.crop-rotation-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.crop-rotation-group {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.btn-crop-tool {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-main);
+  padding: 0.3rem 0.55rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.76rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: all var(--transition-fast);
+  user-select: none;
+}
+
+.btn-crop-tool:hover {
+  background: #f1f5f9;
+  border-color: #94a3b8;
+}
+
+.btn-crop-tool:active {
+  transform: translateY(1px);
+}
+
+.btn-crop-reset {
+  color: #64748b;
+  margin-left: auto;
+}
+
+.btn-crop-reset:hover {
+  color: #0f172a;
+}
+
 .modal-footer {
   padding: 1rem 1.25rem;
   border-top: 1px solid var(--color-border);
   display: flex;
+  align-items: center;
   justify-content: flex-end;
   gap: 0.75rem;
   background: #f8fafc;
+}
+
+.modal-footer-spacer {
+  flex: 1;
+}
+
+.btn-secondary-outline {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: #64748b;
+  padding: 0.45rem 0.85rem;
+  border-radius: var(--radius-md);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-secondary-outline:hover {
+  background: #fee2e2;
+  color: #b91c1c;
+  border-color: #fca5a5;
 }
 
 /* Custom Stations List in Modal */

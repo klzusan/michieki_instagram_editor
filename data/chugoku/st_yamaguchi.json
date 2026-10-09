@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "name": "阿武町",
+    "kana": "あぶまち",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "阿武郡阿武町"
+  },
+  {
+    "name": "萩往還",
+    "kana": "はぎおうかん",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "あさひ",
+    "kana": "あさひ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "あいお",
+    "kana": "あいお",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "山口市"
+  },
+  {
+    "name": "ゆとりパークたまがわ",
+    "kana": "ゆとりぱーくたまがわ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "サザンセトとうわ",
+    "kana": "さざんせととうわ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "大島郡周防大島町"
+  },
+  {
+    "name": "きくがわ",
+    "kana": "きくがわ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "下関市"
+  },
+  {
+    "name": "ハピネスふくえ",
+    "kana": "はぴねすふくえ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "長門峡",
+    "kana": "ながときょう",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "山口市"
+  },
+  {
+    "name": "ピュアラインにしき",
+    "kana": "ぴゅあらいんにしき",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "岩国市"
+  },
+  {
+    "name": "おふく",
+    "kana": "おふく",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "美祢市"
+  },
+  {
+    "name": "みとう",
+    "kana": "みとう",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "美祢市"
+  },
+  {
+    "name": "仁保の郷",
+    "kana": "にいほのさと",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "山口市"
+  },
+  {
+    "name": "萩しーまーと",
+    "kana": "はぎしーまーと",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "願成就温泉",
+    "kana": "がんじょうしゅうおんせん",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "山口市"
+  },
+  {
+    "name": "うり坊の郷ｋａｔａｍａｔａ",
+    "kana": "うりぼうのさとｋａｔａｍａｔａ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "蛍街道西ノ市",
+    "kana": "ほたるかいどうにしのし",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "下関市"
+  },
+  {
+    "name": "きらら　あじす",
+    "kana": "きらら　あじす",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "山口市"
+  },
+  {
+    "name": "萩・さんさん三見",
+    "kana": "はぎ・さんさんさんけん",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "萩市"
+  },
+  {
+    "name": "北浦街道　豊北",
+    "kana": "きたうらかいどう　ほうほく",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "下関市"
+  },
+  {
+    "name": "ソレーネ周南",
+    "kana": "それーねしゅうなん",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "周南市"
+  },
+  {
+    "name": "上関海峡",
+    "kana": "うえのせきかいきょう",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "熊毛郡上関町"
+  },
+  {
+    "name": "潮彩市場防府",
+    "kana": "しおさいしじょうほうふ",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "防府市"
+  },
+  {
+    "name": "センザキッチン",
+    "kana": "せんざきっちん",
+    "region": "中国",
+    "prefecture": "山口県",
+    "municipality": "長門市"
+  }
+]

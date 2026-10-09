@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "name": "石鳥谷",
+    "kana": "いしどりや",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "花巻市"
+  },
+  {
+    "name": "高田松原",
+    "kana": "たかだまつばら",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "陸前高田市"
+  },
+  {
+    "name": "区界高原",
+    "kana": "くかいこうげん",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "宮古市"
+  },
+  {
+    "name": "おおの",
+    "kana": "おおの",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "九戸郡洋野町"
+  },
+  {
+    "name": "種山ヶ原",
+    "kana": "たねやまゖはら",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "気仙郡住田町"
+  },
+  {
+    "name": "いわいずみ",
+    "kana": "いわいずみ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡岩泉町"
+  },
+  {
+    "name": "のだ",
+    "kana": "のだ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "九戸郡野田村"
+  },
+  {
+    "name": "たろう",
+    "kana": "たろう",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "宮古市"
+  },
+  {
+    "name": "たのはた",
+    "kana": "たのはた",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡田野畑村"
+  },
+  {
+    "name": "みずさわ",
+    "kana": "みずさわ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "奥州市"
+  },
+  {
+    "name": "にしね",
+    "kana": "にしね",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "八幡平市"
+  },
+  {
+    "name": "白樺の里やまがた",
+    "kana": "しらかばのさとやまがた",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "久慈市"
+  },
+  {
+    "name": "みやもり",
+    "kana": "みやもり",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "遠野市"
+  },
+  {
+    "name": "紫波",
+    "kana": "しわ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "紫波郡紫波町"
+  },
+  {
+    "name": "はやちね",
+    "kana": "はやちね",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "花巻市"
+  },
+  {
+    "name": "やまだ",
+    "kana": "やまだ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡山田町"
+  },
+  {
+    "name": "遠野風の丘",
+    "kana": "とおのかぜのおか",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "遠野市"
+  },
+  {
+    "name": "さんりく",
+    "kana": "さんりく",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "大船渡市"
+  },
+  {
+    "name": "錦秋湖",
+    "kana": "きんしゅうみずうみ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "和賀郡西和賀町"
+  },
+  {
+    "name": "くずまき高原",
+    "kana": "くずまきこうげん",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "岩手郡葛巻町"
+  },
+  {
+    "name": "石神の丘",
+    "kana": "いしがみのおか",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "岩手郡岩手町"
+  },
+  {
+    "name": "雫石あねっこ",
+    "kana": "しずくいしあねっこ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "岩手郡雫石町"
+  },
+  {
+    "name": "とうわ",
+    "kana": "とうわ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "花巻市"
+  },
+  {
+    "name": "厳美渓",
+    "kana": "げんびけい",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "一関市"
+  },
+  {
+    "name": "おりつめ",
+    "kana": "おりつめ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "九戸郡九戸村"
+  },
+  {
+    "name": "かわさき",
+    "kana": "かわさき",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "一関市"
+  },
+  {
+    "name": "やまびこ館",
+    "kana": "やまびこかん",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "宮古市"
+  },
+  {
+    "name": "みやこ",
+    "kana": "みやこ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "宮古市"
+  },
+  {
+    "name": "三田貝分校",
+    "kana": "みたかいぶんこう",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡岩泉町"
+  },
+  {
+    "name": "くじ",
+    "kana": "くじ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "久慈市"
+  },
+  {
+    "name": "釜石仙人峠",
+    "kana": "かまいしせんにんとうげ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "釜石市"
+  },
+  {
+    "name": "平泉",
+    "kana": "ひらいずみ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "西磐井郡平泉町"
+  },
+  {
+    "name": "むろね",
+    "kana": "むろね",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "一関市"
+  },
+  {
+    "name": "はなまき西南",
+    "kana": "はなまきせいなん",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "花巻市"
+  },
+  {
+    "name": "青の国ふだい",
+    "kana": "あおのくにふだい",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡普代村"
+  },
+  {
+    "name": "いわて北三陸",
+    "kana": "いわてきたさんりく",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "久慈市"
+  },
+  {
+    "name": "だいとう",
+    "kana": "だいとう",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "一関市"
+  },
+  {
+    "name": "もりおか渋民",
+    "kana": "もりおかしぶたみ",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "盛岡市"
+  },
+  {
+    "name": "ふなこし",
+    "kana": "ふなこし",
+    "region": "東北",
+    "prefecture": "岩手県",
+    "municipality": "下閉伊郡山田町"
+  }
+]

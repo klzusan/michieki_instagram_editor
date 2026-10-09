@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "name": "細入",
+    "kana": "ほそいり",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "富山市"
+  },
+  {
+    "name": "砺波",
+    "kana": "となみ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "砺波市"
+  },
+  {
+    "name": "上平",
+    "kana": "かみたいら",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "南砺市"
+  },
+  {
+    "name": "利賀",
+    "kana": "とが",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "南砺市"
+  },
+  {
+    "name": "井波",
+    "kana": "いなみ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "南砺市"
+  },
+  {
+    "name": "福光",
+    "kana": "ふくみつ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "南砺市"
+  },
+  {
+    "name": "たいら",
+    "kana": "たいら",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "南砺市"
+  },
+  {
+    "name": "庄川",
+    "kana": "しょうがわ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "砺波市"
+  },
+  {
+    "name": "うなづき",
+    "kana": "うなづき",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "黒部市"
+  },
+  {
+    "name": "まるごと射水",
+    "kana": "まるごといみず",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "射水市"
+  },
+  {
+    "name": "ウェーブパークなめりかわ",
+    "kana": "うぇーぶぱーくなめりかわ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "滑川市"
+  },
+  {
+    "name": "氷見",
+    "kana": "ひみ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "氷見市"
+  },
+  {
+    "name": "万葉の里　高岡",
+    "kana": "まんようのさと　たかおか",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "高岡市"
+  },
+  {
+    "name": "メルヘンおやべ",
+    "kana": "めるへんおやべ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "小矢部市"
+  },
+  {
+    "name": "雨晴",
+    "kana": "あめせい",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "高岡市"
+  },
+  {
+    "name": "KOKOくろべ",
+    "kana": "KOKOくろべ",
+    "region": "北陸",
+    "prefecture": "富山県",
+    "municipality": "黒部市"
+  }
+]

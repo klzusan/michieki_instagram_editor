@@ -4,87 +4,69 @@
     "kana": "ちはやあかさか",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "千早赤阪村",
-    "number": "01"
+    "municipality": "南河内郡千早赤阪村"
+  },
+  {
+    "name": "近つ飛鳥の里太子",
+    "kana": "きんつあすかのさとたいし",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "南河内郡太子町"
+  },
+  {
+    "name": "能勢（くりの郷）",
+    "kana": "のせ（くりのさと）",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "豊能郡能勢町"
   },
   {
     "name": "かなん",
     "kana": "かなん",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "河南町",
-    "number": "02"
+    "municipality": "南河内郡河南町"
   },
   {
-    "name": "近つ飛鳥の里・太子",
-    "kana": "ちかつあすかのさとたいし",
+    "name": "しらとりの郷・羽曳野",
+    "kana": "しらとりのさと・はびきの",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "太子町",
-    "number": "03"
+    "municipality": "羽曳野市"
   },
   {
     "name": "いずみ山愛の里",
     "kana": "いずみやまあいのさと",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "和泉市",
-    "number": "04"
+    "municipality": "和泉市"
+  },
+  {
+    "name": "とっとパーク小島",
+    "kana": "とっとぱーくこじま",
+    "region": "近畿",
+    "prefecture": "大阪府",
+    "municipality": "泉南郡岬町"
   },
   {
     "name": "愛彩ランド",
     "kana": "あいさいらんど",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "岸和田市",
-    "number": "05"
+    "municipality": "岸和田市"
   },
   {
-    "name": "くろまろの郷",
-    "kana": "くろまろのさと",
+    "name": "みさき",
+    "kana": "みさき",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "河内長野市",
-    "number": "06"
+    "municipality": "泉南郡岬町"
   },
   {
     "name": "奥河内くろまろの郷",
-    "kana": "おくかわちくろまろのさと",
+    "kana": "おくかわうちくろまろのさと",
     "region": "近畿",
     "prefecture": "大阪府",
-    "municipality": "河内長野市",
-    "number": "06"
-  },
-  {
-    "name": "能勢（くりの郷）",
-    "kana": "のせくりのさと",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "municipality": "能勢町",
-    "number": "07"
-  },
-  {
-    "name": "しらとりの郷・羽曳野",
-    "kana": "しらとりのさとはびきの",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "municipality": "羽曳野市",
-    "number": "08"
-  },
-  {
-    "name": "みのお",
-    "kana": "みのお",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "municipality": "箕面市",
-    "number": "09"
-  },
-  {
-    "name": "とっとパーク小島",
-    "kana": "とっとぱーくこしま",
-    "region": "近畿",
-    "prefecture": "大阪府",
-    "municipality": "岬町",
-    "number": "10"
+    "municipality": "河内長野市"
   }
 ]

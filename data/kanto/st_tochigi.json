@@ -1,1 +1,177 @@
-[]
+[
+  {
+    "name": "もてぎ",
+    "kana": "もてぎ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "芳賀郡茂木町"
+  },
+  {
+    "name": "にのみや",
+    "kana": "にのみや",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "真岡市"
+  },
+  {
+    "name": "湯の香しおばら",
+    "kana": "ゆのかぐわしおばら",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須塩原市"
+  },
+  {
+    "name": "那須高原友愛の森",
+    "kana": "なすこうげんゆうあいのもり",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須郡那須町"
+  },
+  {
+    "name": "明治の森・黒磯",
+    "kana": "めいじのもり・くろいそ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須塩原市"
+  },
+  {
+    "name": "ばとう",
+    "kana": "ばとう",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須郡那珂川町"
+  },
+  {
+    "name": "東山道伊王野",
+    "kana": "とうさんどういおうの",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須郡那須町"
+  },
+  {
+    "name": "きつれがわ",
+    "kana": "きつれがわ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "さくら市"
+  },
+  {
+    "name": "どまんなか　たぬま",
+    "kana": "どまんなか　たぬま",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "佐野市"
+  },
+  {
+    "name": "はが",
+    "kana": "はが",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "芳賀郡芳賀町"
+  },
+  {
+    "name": "那須与一の郷",
+    "kana": "なすよいちのさと",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "大田原市"
+  },
+  {
+    "name": "那須野が原博物館",
+    "kana": "なすのがはらはくぶつかん",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "那須塩原市"
+  },
+  {
+    "name": "みかも",
+    "kana": "みかも",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "栃木市"
+  },
+  {
+    "name": "思川",
+    "kana": "おもいがわ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "小山市"
+  },
+  {
+    "name": "湯西川",
+    "kana": "ゆにしかわ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "日光市"
+  },
+  {
+    "name": "みぶ",
+    "kana": "みぶ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "下都賀郡壬生町"
+  },
+  {
+    "name": "にしかた",
+    "kana": "にしかた",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "栃木市"
+  },
+  {
+    "name": "しもつけ",
+    "kana": "しもつけ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "下野市"
+  },
+  {
+    "name": "やいた",
+    "kana": "やいた",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "矢板市"
+  },
+  {
+    "name": "湧水の郷しおや",
+    "kana": "ゆうすいのさとしおや",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "塩谷郡塩谷町"
+  },
+  {
+    "name": "うつのみや　ろまんちっく村",
+    "kana": "うつのみや　ろまんちっくむら",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "宇都宮市"
+  },
+  {
+    "name": "サシバの里いちかい",
+    "kana": "さしばのさといちかい",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "芳賀郡市貝町"
+  },
+  {
+    "name": "日光",
+    "kana": "にっこう",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "日光市"
+  },
+  {
+    "name": "ましこ",
+    "kana": "ましこ",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "芳賀郡益子町"
+  },
+  {
+    "name": "たかねざわ　元気あっぷむら",
+    "kana": "たかねざわ　げんきあっぷむら",
+    "region": "関東",
+    "prefecture": "栃木県",
+    "municipality": "塩谷郡高根沢町"
+  }
+]

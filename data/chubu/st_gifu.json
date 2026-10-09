@@ -1,1 +1,387 @@
-[]
+[
+  {
+    "name": "美並",
+    "kana": "みなみ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "パスカル清見",
+    "kana": "ぱすかるきよみ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "明宝",
+    "kana": "めいほう",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "花街道付知",
+    "kana": "かがいみちつけち",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "中津川市"
+  },
+  {
+    "name": "美濃白川",
+    "kana": "みのしらかわ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "加茂郡白川町"
+  },
+  {
+    "name": "ラステンほらど",
+    "kana": "らすてんほらど",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "関市"
+  },
+  {
+    "name": "白山文化の里長滝",
+    "kana": "はくさんぶんかのさとおさたき",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "奥飛騨温泉郷上宝",
+    "kana": "おくひだおんせんさとかみたから",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "賤母",
+    "kana": "せんはは",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "中津川市"
+  },
+  {
+    "name": "ロック・ガーデン　ひちそう",
+    "kana": "ろっく・がーでん　ひちそう",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "加茂郡七宗町"
+  },
+  {
+    "name": "星のふる里　ふじはし",
+    "kana": "ほしのふるさと　ふじはし",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "揖斐郡揖斐川町"
+  },
+  {
+    "name": "白川郷",
+    "kana": "しらかわさと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "大野郡白川村"
+  },
+  {
+    "name": "平成",
+    "kana": "へいせい",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "関市"
+  },
+  {
+    "name": "アルプ飛騨古川",
+    "kana": "あるぷひだふるかわ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "飛騨市"
+  },
+  {
+    "name": "飛騨金山ぬく森の里温泉",
+    "kana": "ひだかなやまぬくもりのさとおんせん",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "下呂市"
+  },
+  {
+    "name": "上矢作ラ・フォーレ福寿の里",
+    "kana": "かみやはぎら・ふぉーれふくじゅのさと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "恵那市"
+  },
+  {
+    "name": "モンデウス飛騨位山",
+    "kana": "もんでうすひだくらいやま",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "南飛騨小坂",
+    "kana": "みなみひだこさか",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "下呂市"
+  },
+  {
+    "name": "夢さんさん谷汲",
+    "kana": "ゆめさんさんたにぐみ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "揖斐郡揖斐川町"
+  },
+  {
+    "name": "土岐美濃焼街道",
+    "kana": "ときみのやきかいどう",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "土岐市"
+  },
+  {
+    "name": "富有柿の里いとぬき",
+    "kana": "ふゆうかきのさといとぬき",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "本巣市"
+  },
+  {
+    "name": "ななもり清見",
+    "kana": "ななもりきよみ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "きりら坂下",
+    "kana": "きりらさかした",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "中津川市"
+  },
+  {
+    "name": "クレール平田",
+    "kana": "くれーるひらた",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "海津市"
+  },
+  {
+    "name": "馬瀬　美輝の里",
+    "kana": "まぜ　びてるのさと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "下呂市"
+  },
+  {
+    "name": "飛騨街道　なぎさ",
+    "kana": "ひだかいどう　なぎさ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "ひだ朝日村",
+    "kana": "ひだあさひむら",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "そばの郷　らっせぃみさと",
+    "kana": "そばのさと　らっせぃみさと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "恵那市"
+  },
+  {
+    "name": "織部の里・もとす",
+    "kana": "おりべのさと・もとす",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "本巣市"
+  },
+  {
+    "name": "飛騨たかね工房",
+    "kana": "ひだたかねこうぼう",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "大日岳",
+    "kana": "だいにちだけ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "桜の郷　荘川",
+    "kana": "さくらのさと　しょうかわ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "高山市"
+  },
+  {
+    "name": "むげ川",
+    "kana": "むげかわ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "関市"
+  },
+  {
+    "name": "古今伝授の里やまと",
+    "kana": "ここんでんじゅのさとやまと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "みのかも",
+    "kana": "みのかも",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "美濃加茂市"
+  },
+  {
+    "name": "茶の里東白川",
+    "kana": "ちゃのさとひがししらかわ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "加茂郡東白川村"
+  },
+  {
+    "name": "和良",
+    "kana": "かずよし",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "うすずみ桜の里・ねお",
+    "kana": "うすずみさくらのさと・ねお",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "本巣市"
+  },
+  {
+    "name": "志野・織部",
+    "kana": "しの・おりべ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "土岐市"
+  },
+  {
+    "name": "加子母",
+    "kana": "かしも",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "中津川市"
+  },
+  {
+    "name": "夜叉ヶ池の里さかうち",
+    "kana": "やしゃゖいけのさとさかうち",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "揖斐郡揖斐川町"
+  },
+  {
+    "name": "おばあちゃん市・山岡",
+    "kana": "おばあちゃんし・やまおか",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "恵那市"
+  },
+  {
+    "name": "月見の里　南濃",
+    "kana": "つきみのさと　なんのう",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "海津市"
+  },
+  {
+    "name": "柳津",
+    "kana": "やなつ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "岐阜市"
+  },
+  {
+    "name": "五木のやかた・かわうえ",
+    "kana": "いつきのやかた・かわうえ",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "中津川市"
+  },
+  {
+    "name": "宙ドーム・神岡",
+    "kana": "ちゅうどーむ・かみおか",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "飛騨市"
+  },
+  {
+    "name": "白尾ふれあいパーク",
+    "kana": "しらおふれあいぱーく",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "美濃にわか茶屋",
+    "kana": "みのにわかちゃや",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "美濃市"
+  },
+  {
+    "name": "飛騨白山",
+    "kana": "ひだはくさん",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "大野郡白川村"
+  },
+  {
+    "name": "半布里の郷　とみか",
+    "kana": "はんぬのさとのさと　とみか",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "加茂郡富加町"
+  },
+  {
+    "name": "可児ッテ「ＣＡＮＩＴＴＥ」",
+    "kana": "かにって「ＣＡＮＩＴＴＥ」",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "可児市"
+  },
+  {
+    "name": "池田温泉",
+    "kana": "いけだおんせん",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "揖斐郡池田町"
+  },
+  {
+    "name": "清流白川　クオーレの里",
+    "kana": "せいりゅうしらかわ　くおーれのさと",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "加茂郡白川町"
+  },
+  {
+    "name": "清流の里しろとり",
+    "kana": "せいりゅうのさとしろとり",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "郡上市"
+  },
+  {
+    "name": "パレットピアおおの",
+    "kana": "ぱれっとぴあおおの",
+    "region": "中部",
+    "prefecture": "岐阜県",
+    "municipality": "揖斐郡大野町"
+  }
+]

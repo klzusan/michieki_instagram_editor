@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "name": "信州新町",
+    "kana": "しんしゅうしんまち",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "長野市"
+  },
+  {
+    "name": "長野市大岡特産センター",
+    "kana": "ながのしおおおかとくさんせんたー",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "長野市"
+  },
+  {
+    "name": "信越さかえ",
+    "kana": "しんえつさかえ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下水内郡栄村"
+  },
+  {
+    "name": "小坂田公園",
+    "kana": "こさかたこうえん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "塩尻市"
+  },
+  {
+    "name": "池田",
+    "kana": "いけだ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "北安曇郡池田町"
+  },
+  {
+    "name": "中条",
+    "kana": "ちゅうじょう",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "長野市"
+  },
+  {
+    "name": "みまき",
+    "kana": "みまき",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "東御市"
+  },
+  {
+    "name": "白馬",
+    "kana": "はくば",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "北安曇郡白馬村"
+  },
+  {
+    "name": "ふるさと豊田",
+    "kana": "ふるさととよだ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "中野市"
+  },
+  {
+    "name": "マルメロの駅ながと",
+    "kana": "まるめろのえきながと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "小県郡長和町"
+  },
+  {
+    "name": "ほっとぱ～く・浅科",
+    "kana": "ほっとぱ～く・あさしな",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "佐久市"
+  },
+  {
+    "name": "アルプス安曇野　ほりがねの里",
+    "kana": "あるぷすあずみの　ほりがねのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "安曇野市"
+  },
+  {
+    "name": "安曇野松川",
+    "kana": "あずみのまつかわ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "北安曇郡松川村"
+  },
+  {
+    "name": "風穴の里",
+    "kana": "かざあなのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "松本市"
+  },
+  {
+    "name": "北信州やまのうち",
+    "kana": "ほくしんしゅうやまのうち",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下高井郡山ノ内町"
+  },
+  {
+    "name": "上田　道と川の駅",
+    "kana": "うえだ　みちとかわのえき",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上田市"
+  },
+  {
+    "name": "信州蔦木宿",
+    "kana": "しんしゅうつたきやど",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "諏訪郡富士見町"
+  },
+  {
+    "name": "しなの",
+    "kana": "しなの",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上水内郡信濃町"
+  },
+  {
+    "name": "小谷",
+    "kana": "こたに",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "北安曇郡小谷村"
+  },
+  {
+    "name": "さかきた",
+    "kana": "さかきた",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "東筑摩郡筑北村"
+  },
+  {
+    "name": "ぽかぽかランド美麻",
+    "kana": "ぽかぽからんどみあさ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "大町市"
+  },
+  {
+    "name": "オアシスおぶせ",
+    "kana": "おあしすおぶせ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上高井郡小布施町"
+  },
+  {
+    "name": "雷電くるみの里",
+    "kana": "らいでんくるみのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "東御市"
+  },
+  {
+    "name": "花の駅　千曲川",
+    "kana": "はなのえき　ちくまがわ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "飯山市"
+  },
+  {
+    "name": "あおき",
+    "kana": "あおき",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "小県郡青木村"
+  },
+  {
+    "name": "おがわ",
+    "kana": "おがわ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上水内郡小川村"
+  },
+  {
+    "name": "美ヶ原高原",
+    "kana": "うつくしがはらこうげん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上田市"
+  },
+  {
+    "name": "今井　恵みの里",
+    "kana": "いまい　めぐみのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "松本市"
+  },
+  {
+    "name": "FARMUS 木島平",
+    "kana": "FARMUS きじまたいら",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下高井郡木島平村"
+  },
+  {
+    "name": "ヘルシーテラス佐久南",
+    "kana": "へるしーてらすさくみなみ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "佐久市"
+  },
+  {
+    "name": "女神の里たてしな",
+    "kana": "めがみのさとたてしな",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "北佐久郡立科町"
+  },
+  {
+    "name": "いくさかの郷",
+    "kana": "いくさかのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "東筑摩郡生坂村"
+  },
+  {
+    "name": "野沢温泉",
+    "kana": "のざわおんせん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下高井郡野沢温泉村"
+  },
+  {
+    "name": "ビーナスライン蓼科湖",
+    "kana": "びーなすらいんたてしなみずうみ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "茅野市"
+  },
+  {
+    "name": "和田宿ステーション",
+    "kana": "わだやどすてーしょん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "小県郡長和町"
+  },
+  {
+    "name": "日義木曽駒高原",
+    "kana": "ひよしきそこまこうげん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "木曽郡木曽町"
+  },
+  {
+    "name": "大桑",
+    "kana": "おおくわ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "木曽郡大桑村"
+  },
+  {
+    "name": "奈良井木曽の大橋",
+    "kana": "ならいきそのおおはし",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "塩尻市"
+  },
+  {
+    "name": "信州平谷",
+    "kana": "しんしゅうひらたに",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡平谷村"
+  },
+  {
+    "name": "信濃路下條",
+    "kana": "しなのみちしもじょう",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡下條村"
+  },
+  {
+    "name": "南アルプスむら長谷",
+    "kana": "みなみあるぷすむらはせ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "伊那市"
+  },
+  {
+    "name": "木曽ならかわ",
+    "kana": "きそならかわ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "塩尻市"
+  },
+  {
+    "name": "三岳",
+    "kana": "みたけ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "木曽郡木曽町"
+  },
+  {
+    "name": "信州新野千石平",
+    "kana": "しんしゅうしんのせんごくたいら",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡阿南町"
+  },
+  {
+    "name": "花の里いいじま",
+    "kana": "はなのさといいじま",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上伊那郡飯島町"
+  },
+  {
+    "name": "遠山郷",
+    "kana": "とうやまさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "飯田市"
+  },
+  {
+    "name": "木曽福島",
+    "kana": "きそふくしま",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "木曽郡木曽町"
+  },
+  {
+    "name": "木曽川源流の里　きそむら",
+    "kana": "きそかわげんりゅうのさと　きそむら",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "木曽郡木祖村"
+  },
+  {
+    "name": "田切の里",
+    "kana": "たぎりのさと",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上伊那郡飯島町"
+  },
+  {
+    "name": "南信州とよおかマルシェ",
+    "kana": "なんしんしゅうとよおかまるしぇ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡豊丘村"
+  },
+  {
+    "name": "大芝高原",
+    "kana": "おおしばこうげん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "上伊那郡南箕輪村"
+  },
+  {
+    "name": "南信州　うるぎ",
+    "kana": "なんしんしゅう　うるぎ",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡売木村"
+  },
+  {
+    "name": "歌舞伎の里大鹿",
+    "kana": "かぶきのさとおおしか",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "下伊那郡大鹿村"
+  },
+  {
+    "name": "八千穂高原",
+    "kana": "やちほこうげん",
+    "region": "中部",
+    "prefecture": "長野県",
+    "municipality": "南佐久郡佐久穂町"
+  }
+]

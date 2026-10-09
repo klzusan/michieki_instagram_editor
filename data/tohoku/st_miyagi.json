@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "name": "七ヶ宿",
+    "kana": "しちがしゅく",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "刈田郡七ヶ宿町"
+  },
+  {
+    "name": "津山",
+    "kana": "つやま",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "登米市"
+  },
+  {
+    "name": "三本木",
+    "kana": "さんぼんぎ",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "大崎市"
+  },
+  {
+    "name": "路田里はなやま",
+    "kana": "みちたざとはなやま",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "栗原市"
+  },
+  {
+    "name": "大谷海岸",
+    "kana": "おおたにかいがん",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "気仙沼市"
+  },
+  {
+    "name": "おおさと",
+    "kana": "おおさと",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "黒川郡大郷町"
+  },
+  {
+    "name": "米山",
+    "kana": "よねやま",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "登米市"
+  },
+  {
+    "name": "あ・ら・伊達な道の駅",
+    "kana": "あ・ら・だてなみちのえき",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "大崎市"
+  },
+  {
+    "name": "林林館",
+    "kana": "りんりんかん",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "登米市"
+  },
+  {
+    "name": "上品の郷",
+    "kana": "じょうひんのさと",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "石巻市"
+  },
+  {
+    "name": "みなみかた",
+    "kana": "みなみかた",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "登米市"
+  },
+  {
+    "name": "村田",
+    "kana": "むらた",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "柴田郡村田町"
+  },
+  {
+    "name": "三滝堂",
+    "kana": "みたきどう",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "登米市"
+  },
+  {
+    "name": "おおさき",
+    "kana": "おおさき",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "大崎市"
+  },
+  {
+    "name": "かくだ",
+    "kana": "かくだ",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "角田市"
+  },
+  {
+    "name": "おながわ",
+    "kana": "おながわ",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "牡鹿郡女川町"
+  },
+  {
+    "name": "さんさん南三陸",
+    "kana": "さんさんみなみさんりく",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "本吉郡南三陸町"
+  },
+  {
+    "name": "硯上の里おがつ",
+    "kana": "すずりうえのさとおがつ",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "石巻市"
+  },
+  {
+    "name": "東松島",
+    "kana": "ひがしまつしま",
+    "region": "東北",
+    "prefecture": "宮城県",
+    "municipality": "東松島市"
+  }
+]

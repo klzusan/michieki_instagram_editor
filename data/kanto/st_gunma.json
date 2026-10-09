@@ -1,10 +1,233 @@
 [
   {
+    "name": "上野",
+    "kana": "うえの",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "多野郡上野村"
+  },
+  {
+    "name": "ぐりーんふらわー牧場・大胡",
+    "kana": "ぐりーんふらわーぼくじょう・おおご",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "前橋市"
+  },
+  {
+    "name": "六合",
+    "kana": "くに",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡中之条町"
+  },
+  {
+    "name": "おのこ",
+    "kana": "おのこ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "渋川市"
+  },
+  {
+    "name": "上州おにし",
+    "kana": "じょうしゅうおにし",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "藤岡市"
+  },
+  {
     "name": "川場田園プラザ",
     "kana": "かわばでんえんぷらざ",
     "region": "関東",
     "prefecture": "群馬県",
-    "municipality": "川場村",
-    "number": "01"
+    "municipality": "利根郡川場村"
+  },
+  {
+    "name": "みなかみ水紀行館",
+    "kana": "みなかみみずきこうかん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "利根郡みなかみ町"
+  },
+  {
+    "name": "白沢",
+    "kana": "しらさわ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "沼田市"
+  },
+  {
+    "name": "草津運動茶屋公園",
+    "kana": "くさつうんどうちゃやこうえん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡草津町"
+  },
+  {
+    "name": "くろほね・やまびこ",
+    "kana": "くろほね・やまびこ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "桐生市"
+  },
+  {
+    "name": "ららん藤岡",
+    "kana": "ららんふじおか",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "藤岡市"
+  },
+  {
+    "name": "こもち",
+    "kana": "こもち",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "渋川市"
+  },
+  {
+    "name": "月夜野矢瀬親水公園",
+    "kana": "つきよのやぜしんすいこうえん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "利根郡みなかみ町"
+  },
+  {
+    "name": "みょうぎ",
+    "kana": "みょうぎ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "富岡市"
+  },
+  {
+    "name": "万葉の里",
+    "kana": "まんようのさと",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "多野郡神流町"
+  },
+  {
+    "name": "しもにた",
+    "kana": "しもにた",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "甘楽郡下仁田町"
+  },
+  {
+    "name": "富弘美術館",
+    "kana": "とみひろびじゅつかん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "みどり市"
+  },
+  {
+    "name": "たくみの里",
+    "kana": "たくみのさと",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "利根郡みなかみ町"
+  },
+  {
+    "name": "霊山たけやま",
+    "kana": "りょうせんたけやま",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡中之条町"
+  },
+  {
+    "name": "よしおか温泉",
+    "kana": "よしおかおんせん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "北群馬郡吉岡町"
+  },
+  {
+    "name": "赤城の恵",
+    "kana": "あかぎのめぐみ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "前橋市"
+  },
+  {
+    "name": "甘楽",
+    "kana": "かんら",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "甘楽郡甘楽町"
+  },
+  {
+    "name": "あぐりーむ昭和",
+    "kana": "あぐりーむしょうわ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "利根郡昭和村"
+  },
+  {
+    "name": "オアシスなんもく",
+    "kana": "おあしすなんもく",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "甘楽郡南牧村"
+  },
+  {
+    "name": "ふじみ",
+    "kana": "ふじみ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "前橋市"
+  },
+  {
+    "name": "おおた",
+    "kana": "おおた",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "太田市"
+  },
+  {
+    "name": "八ッ場ふるさと館",
+    "kana": "はちっばふるさとかん",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡長野原町"
+  },
+  {
+    "name": "中山盆地",
+    "kana": "なかやまぼんち",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡高山村"
+  },
+  {
+    "name": "くらぶち小栗の里",
+    "kana": "くらぶちおぐりのさと",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "高崎市"
+  },
+  {
+    "name": "あがつま峡",
+    "kana": "あがつまきょう",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "吾妻郡東吾妻町"
+  },
+  {
+    "name": "玉村宿",
+    "kana": "たまむらやど",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "佐波郡玉村町"
+  },
+  {
+    "name": "尾瀬かたしな",
+    "kana": "おぜかたしな",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "利根郡片品村"
+  },
+  {
+    "name": "まえばし赤城",
+    "kana": "まえばしあかぎ",
+    "region": "関東",
+    "prefecture": "群馬県",
+    "municipality": "前橋市"
   }
 ]

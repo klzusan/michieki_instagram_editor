@@ -1,58 +1,128 @@
 [
   {
     "name": "飯高駅",
-    "kana": "いいたかえき",
-    "region": "近畿",
+    "kana": "いいだかえき",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "松阪市",
-    "number": "01"
+    "municipality": "松阪市"
+  },
+  {
+    "name": "菰野",
+    "kana": "こもの",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "三重郡菰野町"
+  },
+  {
+    "name": "紀宝町ウミガメ公園",
+    "kana": "きほうまちうみがめこうえん",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "南牟婁郡紀宝町"
+  },
+  {
+    "name": "パーク七里御浜",
+    "kana": "ぱーくしちりみはま",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "南牟婁郡御浜町"
+  },
+  {
+    "name": "海山",
+    "kana": "うみやま",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "北牟婁郡紀北町"
+  },
+  {
+    "name": "奥伊勢木つつ木館",
+    "kana": "おくいせきつつきかん",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "度会郡大紀町"
+  },
+  {
+    "name": "熊野きのくに",
+    "kana": "くまのきのくに",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "熊野市"
+  },
+  {
+    "name": "茶倉駅",
+    "kana": "ちゃくらえき",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "松阪市"
+  },
+  {
+    "name": "奥伊勢おおだい",
+    "kana": "おくいせおおだい",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "多気郡大台町"
+  },
+  {
+    "name": "美杉",
+    "kana": "みすぎ",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "津市"
+  },
+  {
+    "name": "関宿",
+    "kana": "せきやど",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "亀山市"
   },
   {
     "name": "伊勢志摩",
     "kana": "いせしま",
-    "region": "近畿",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "志摩市",
-    "number": "02"
+    "municipality": "志摩市"
   },
   {
-    "name": "いが",
-    "kana": "いが",
-    "region": "近畿",
+    "name": "紀伊長島マンボウ",
+    "kana": "きいながしままんぼう",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "伊賀市",
-    "number": "03"
+    "municipality": "北牟婁郡紀北町"
   },
   {
     "name": "あやま",
     "kana": "あやま",
-    "region": "近畿",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "伊賀市",
-    "number": "04"
+    "municipality": "伊賀市"
   },
   {
-    "name": "関宿",
-    "kana": "せきじゅく",
-    "region": "近畿",
+    "name": "いが",
+    "kana": "いが",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "亀山市",
-    "number": "05"
+    "municipality": "伊賀市"
   },
   {
-    "name": "紀宝町ウミガメ公園",
-    "kana": "きほうちょううみがめこうえん",
-    "region": "近畿",
+    "name": "津かわげ",
+    "kana": "つかわげ",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "紀宝町",
-    "number": "06"
+    "municipality": "津市"
   },
   {
     "name": "熊野・花の窟",
-    "kana": "くまのはなのいわや",
-    "region": "近畿",
+    "kana": "くまの・はなのくつ",
+    "region": "中部",
     "prefecture": "三重県",
-    "municipality": "熊野市",
-    "number": "07"
+    "municipality": "熊野市"
+  },
+  {
+    "name": "熊野・板屋九郎兵衛の里",
+    "kana": "くまの・いたやくろべえのさと",
+    "region": "中部",
+    "prefecture": "三重県",
+    "municipality": "熊野市"
   }
 ]

@@ -70,6 +70,22 @@
   const closeCropModalBtn = document.getElementById('closeCropModalBtn');
   const cancelCropBtn = document.getElementById('cancelCropBtn');
   const applyCropBtn = document.getElementById('applyCropBtn');
+  const revertCropBtn = document.getElementById('revertCropBtn');
+
+  // Crop Rotation elements
+  const cropRotationValue = document.getElementById('cropRotationValue');
+  const cropRotationSlider = document.getElementById('cropRotationSlider');
+  const cropRotateMinusOneBtn = document.getElementById('cropRotateMinusOneBtn');
+  const cropRotateMinusPointOneBtn = document.getElementById('cropRotateMinusPointOneBtn');
+  const cropRotatePlusPointOneBtn = document.getElementById('cropRotatePlusPointOneBtn');
+  const cropRotatePlusOneBtn = document.getElementById('cropRotatePlusOneBtn');
+  const cropRotateLeft90Btn = document.getElementById('cropRotateLeft90Btn');
+  const cropRotateRight90Btn = document.getElementById('cropRotateRight90Btn');
+  const cropRotateResetBtn = document.getElementById('cropRotateResetBtn');
+
+  // Rotation state tracking for active cropper modal
+  let currentBaseAngle = 0;
+  let currentFineAngle = 0;
 
   const openCustomStationsBtn = document.getElementById('openCustomStationsBtn');
   const customStationsModal = document.getElementById('customStationsModal');
@@ -136,9 +152,9 @@
   // --- Roadside Stations Database & Learning ---
   async function loadStationsDatabase() {
     try {
-      // Load manifest of regional prefecture files
+      // Load manifest of regional prefecture files (no-cache to avoid stale manifest in browser cache)
       let files = [];
-      const manifestRes = await fetch('data/manifest.json');
+      const manifestRes = await fetch(`data/manifest.json?t=${Date.now()}`, { cache: 'no-cache' });
       if (manifestRes.ok) {
         files = await manifestRes.json();
       } else {
@@ -166,7 +182,7 @@
       // Fetch each prefecture file in parallel
       const results = await Promise.allSettled(
         files.map(async (filePath) => {
-          const res = await fetch(filePath);
+          const res = await fetch(`${filePath}?t=${Date.now()}`, { cache: 'no-cache' });
           if (res.ok) {
             return await res.json();
           }
@@ -216,7 +232,6 @@
         region: station.region || getSelectedRegion(),
         prefecture: station.prefecture || '',
         municipality: station.municipality || '',
-        number: station.number || '',
         updatedAt: new Date().toISOString(),
       };
       try {
@@ -236,7 +251,6 @@
       region: station.region || getSelectedRegion(),
       prefecture: station.prefecture || '',
       municipality: station.municipality || '',
-      number: station.number || '',
       custom: true,
       createdAt: new Date().toISOString(),
     };
@@ -343,9 +357,6 @@
     stationNameInput.value = item.name;
     if (item.prefecture) prefectureInput.value = item.prefecture;
     if (item.municipality) municipalityInput.value = item.municipality;
-    if (item.number && (!stationNumberInput.value || stationNumberInput.value === '01')) {
-      stationNumberInput.value = item.number;
-    }
     if (item.region) {
       setRegionValue(item.region);
     }
@@ -376,7 +387,6 @@
       prefecture: prefectureInput.value.trim(),
       municipality: municipalityInput.value.trim(),
       region: getSelectedRegion(),
-      number: stationNumberInput.value.trim(),
     });
 
     if (saved) {
@@ -581,11 +591,20 @@
             file: file,
             originalName: file.name,
             baseName: baseName,
+            originalDataUrl: dataUrl,
+            originalWidth: img.naturalWidth,
+            originalHeight: img.naturalHeight,
+            originalIsSquare: isSquare,
             dataUrl: dataUrl,
             imgElement: img,
             width: img.naturalWidth,
             height: img.naturalHeight,
             isSquare: isSquare,
+            isCropped: false,
+            cropData: null,
+            cropRotate: 0,
+            baseAngle: 0,
+            fineAngle: 0,
           };
           state.images.push(newImgObj);
           resolve();
@@ -617,17 +636,86 @@
     drawPreview();
   }
 
-  // --- Cropper Modal Logic ---
+  // --- Cropper Modal & Rotation Logic ---
+  function updateRotationDisplay() {
+    const total = currentBaseAngle + currentFineAngle;
+    cropRotationValue.textContent = `${total >= 0 ? '+' : ''}${total.toFixed(1)}°`;
+  }
+
+  function applyRotationToCropper() {
+    const total = currentBaseAngle + currentFineAngle;
+    if (state.cropperInstance) {
+      state.cropperInstance.rotateTo(total);
+    }
+    updateRotationDisplay();
+  }
+
+  cropRotationSlider.addEventListener('input', () => {
+    currentFineAngle = parseFloat(cropRotationSlider.value) || 0;
+    applyRotationToCropper();
+  });
+
+  cropRotateMinusOneBtn.addEventListener('click', () => {
+    currentFineAngle = Math.max(-45, Math.min(45, Math.round((currentFineAngle - 1) * 10) / 10));
+    cropRotationSlider.value = currentFineAngle;
+    applyRotationToCropper();
+  });
+
+  cropRotateMinusPointOneBtn.addEventListener('click', () => {
+    currentFineAngle = Math.max(-45, Math.min(45, Math.round((currentFineAngle - 0.1) * 10) / 10));
+    cropRotationSlider.value = currentFineAngle;
+    applyRotationToCropper();
+  });
+
+  cropRotatePlusPointOneBtn.addEventListener('click', () => {
+    currentFineAngle = Math.max(-45, Math.min(45, Math.round((currentFineAngle + 0.1) * 10) / 10));
+    cropRotationSlider.value = currentFineAngle;
+    applyRotationToCropper();
+  });
+
+  cropRotatePlusOneBtn.addEventListener('click', () => {
+    currentFineAngle = Math.max(-45, Math.min(45, Math.round((currentFineAngle + 1) * 10) / 10));
+    cropRotationSlider.value = currentFineAngle;
+    applyRotationToCropper();
+  });
+
+  cropRotateLeft90Btn.addEventListener('click', () => {
+    currentBaseAngle = (currentBaseAngle - 90) % 360;
+    applyRotationToCropper();
+  });
+
+  cropRotateRight90Btn.addEventListener('click', () => {
+    currentBaseAngle = (currentBaseAngle + 90) % 360;
+    applyRotationToCropper();
+  });
+
+  cropRotateResetBtn.addEventListener('click', () => {
+    currentBaseAngle = 0;
+    currentFineAngle = 0;
+    cropRotationSlider.value = 0;
+    applyRotationToCropper();
+  });
+
   function openCropModal(imageId) {
     const imgObj = state.images.find((i) => i.id === imageId);
     if (!imgObj) return;
 
     state.currentCroppingImageId = imageId;
-    cropperImage.src = imgObj.dataUrl;
+    currentBaseAngle = imgObj.baseAngle || 0;
+    currentFineAngle = imgObj.fineAngle || 0;
+    cropRotationSlider.value = currentFineAngle;
+    updateRotationDisplay();
+
+    // Show revert button only if previously cropped
+    revertCropBtn.hidden = !imgObj.isCropped;
+
+    // Use original uncropped source image to prevent multi-crop degradation
+    cropperImage.src = imgObj.originalDataUrl || imgObj.dataUrl;
     cropModal.hidden = false;
 
     if (state.cropperInstance) {
       state.cropperInstance.destroy();
+      state.cropperInstance = null;
     }
 
     // Initialize Cropper.js with 1:1 aspect ratio
@@ -640,6 +728,16 @@
       highlight: true,
       movable: true,
       zoomable: true,
+      rotatable: true,
+      ready() {
+        const total = currentBaseAngle + currentFineAngle;
+        if (total !== 0) {
+          state.cropperInstance.rotateTo(total);
+        }
+        if (imgObj.cropData) {
+          state.cropperInstance.setData(imgObj.cropData);
+        }
+      },
     });
   }
 
@@ -655,15 +753,45 @@
   closeCropModalBtn.addEventListener('click', closeCropModal);
   cancelCropBtn.addEventListener('click', closeCropModal);
 
+  // Revert back to original uncropped image
+  revertCropBtn.addEventListener('click', () => {
+    if (!state.currentCroppingImageId) return;
+    const imgObj = state.images.find((i) => i.id === state.currentCroppingImageId);
+    if (!imgObj) return;
+
+    const origImg = new Image();
+    origImg.onload = () => {
+      imgObj.dataUrl = imgObj.originalDataUrl;
+      imgObj.imgElement = origImg;
+      imgObj.width = imgObj.originalWidth;
+      imgObj.height = imgObj.originalHeight;
+      imgObj.isSquare = imgObj.originalIsSquare;
+      imgObj.isCropped = false;
+      imgObj.cropData = null;
+      imgObj.cropRotate = 0;
+      imgObj.baseAngle = 0;
+      imgObj.fineAngle = 0;
+
+      closeCropModal();
+      renderGallery();
+      drawPreview();
+    };
+    origImg.src = imgObj.originalDataUrl;
+  });
+
   applyCropBtn.addEventListener('click', () => {
     if (!state.cropperInstance || !state.currentCroppingImageId) return;
 
     const imgObj = state.images.find((i) => i.id === state.currentCroppingImageId);
     if (!imgObj) return;
 
-    const croppedCanvas = state.cropperInstance.getCroppedCanvas();
+    const croppedCanvas = state.cropperInstance.getCroppedCanvas({
+      imageSmoothingEnabled: true,
+      imageSmoothingQuality: 'high',
+    });
     if (!croppedCanvas) return;
 
+    const cropData = state.cropperInstance.getData();
     const croppedDataUrl = croppedCanvas.toDataURL('image/png');
     const newImg = new Image();
     newImg.onload = () => {
@@ -672,6 +800,11 @@
       imgObj.width = newImg.naturalWidth;
       imgObj.height = newImg.naturalHeight;
       imgObj.isSquare = true;
+      imgObj.isCropped = true;
+      imgObj.cropData = cropData;
+      imgObj.cropRotate = currentBaseAngle + currentFineAngle;
+      imgObj.baseAngle = currentBaseAngle;
+      imgObj.fineAngle = currentFineAngle;
 
       closeCropModal();
       renderGallery();
@@ -707,8 +840,8 @@
           <div class="image-card-badges">
             ${isThumb ? '<span class="badge-tag badge-thumbnail">★ サムネイル</span>' : ''}
             ${isPreviewing ? '<span class="badge-tag" style="background: rgba(59, 130, 246, 0.9);">👀 プレビュー中</span>' : ''}
-            <span class="badge-tag ${img.isSquare ? 'badge-ratio-ok' : 'badge-ratio-warn'}">
-              ${img.isSquare ? '1:1 正方形' : '⚠️ 非正方形'}
+            <span class="badge-tag ${img.isCropped ? 'badge-ratio-ok' : (img.isSquare ? 'badge-ratio-ok' : 'badge-ratio-warn')}">
+              ${img.isCropped ? '✂️ トリミング済' : (img.isSquare ? '1:1 正方形' : '⚠️ 非正方形')}
             </span>
           </div>
           <button class="image-card-delete-btn" title="画像を削除" data-id="${img.id}">&times;</button>
@@ -722,12 +855,9 @@
             <span>${isThumb ? '★ サムネイル（解除）' : 'サムネイルに指定'}</span>
           </label>
 
-          ${!img.isSquare
-          ? `<button class="crop-action-btn" data-crop-id="${img.id}">
-                  📐 正方形にトリミング
-                </button>`
-          : ''
-        }
+          <button class="crop-action-btn ${img.isCropped ? 'btn-recrop' : (img.isSquare ? 'btn-square-crop' : 'btn-warn-crop')}" data-crop-id="${img.id}">
+            ${img.isCropped ? '✂️ トリミング・回転を再調整' : (img.isSquare ? '✂️ トリミング・回転調整' : '📐 正方形にトリミング')}
+          </button>
         </div>
       `;
 
@@ -846,7 +976,7 @@
 
       renderThumbnailCanvas(thumbnailPreviewCanvas, previewImg, {
         region: getSelectedRegion(),
-        number: stationNumberInput.value.trim() || '01',
+        number: stationNumberInput.value.trim() || 'xx',
         name: stationNameInput.value.trim() || '道の駅名',
         prefecture: prefectureInput.value.trim() || '都道府県',
         municipality: municipalityInput.value.trim() || '市町村',

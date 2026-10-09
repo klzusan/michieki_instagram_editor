@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "name": "豊根グリーンポート宮嶋",
+    "kana": "とよねぐりーんぽーとみやじま",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "北設楽郡豊根村"
+  },
+  {
+    "name": "鳳来三河三石",
+    "kana": "ほうらいみかわみついし",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "新城市"
+  },
+  {
+    "name": "田原めっくんはうす",
+    "kana": "たはらめっくんはうす",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "田原市"
+  },
+  {
+    "name": "伊良湖クリスタルポルト",
+    "kana": "いらこくりすたるぽると",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "田原市"
+  },
+  {
+    "name": "つぐ高原グリーンパーク",
+    "kana": "つぐこうげんぐりーんぱーく",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "北設楽郡設楽町"
+  },
+  {
+    "name": "どんぐりの里　いなぶ",
+    "kana": "どんぐりのさと　いなぶ",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "豊田市"
+  },
+  {
+    "name": "アグリステーションなぐら",
+    "kana": "あぐりすてーしょんなぐら",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "北設楽郡設楽町"
+  },
+  {
+    "name": "デンパーク安城",
+    "kana": "でんぱーくあんじょう",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "安城市"
+  },
+  {
+    "name": "つくで手作り村",
+    "kana": "つくでてづくりむら",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "新城市"
+  },
+  {
+    "name": "ふれあいの里HASUパーク",
+    "kana": "ふれあいのさとHASUぱーく",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "愛西市"
+  },
+  {
+    "name": "あかばねロコステーション",
+    "kana": "あかばねろこすてーしょん",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "田原市"
+  },
+  {
+    "name": "筆柿の里・幸田",
+    "kana": "ふでかきのさと・こうだ",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "額田郡幸田町"
+  },
+  {
+    "name": "にしお岡ノ山",
+    "kana": "にしおおかのやま",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "西尾市"
+  },
+  {
+    "name": "瀬戸しなの",
+    "kana": "せとしなの",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "瀬戸市"
+  },
+  {
+    "name": "藤川宿",
+    "kana": "ふじかわやど",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "岡崎市"
+  },
+  {
+    "name": "もっくる新城",
+    "kana": "もっくるしんじょう",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "新城市"
+  },
+  {
+    "name": "とよはし",
+    "kana": "とよはし",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "豊橋市"
+  },
+  {
+    "name": "したら",
+    "kana": "したら",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "北設楽郡設楽町"
+  },
+  {
+    "name": "マチテラス日進",
+    "kana": "まちてらすにっしん",
+    "region": "中部",
+    "prefecture": "愛知県",
+    "municipality": "日進市"
+  }
+]

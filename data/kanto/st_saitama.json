@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "name": "あらかわ",
+    "kana": "あらかわ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父市"
+  },
+  {
+    "name": "おがわまち",
+    "kana": "おがわまち",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "比企郡小川町"
+  },
+  {
+    "name": "川口・あんぎょう",
+    "kana": "かわぐち・あんぎょう",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "川口市"
+  },
+  {
+    "name": "大滝温泉",
+    "kana": "おおたきおんせん",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父市"
+  },
+  {
+    "name": "おかべ",
+    "kana": "おかべ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "深谷市"
+  },
+  {
+    "name": "龍勢会館",
+    "kana": "りゅうせいかいかん",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父市"
+  },
+  {
+    "name": "童謡のふる里おおとね",
+    "kana": "どうようのふるさとおおとね",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "加須市"
+  },
+  {
+    "name": "はなぞの",
+    "kana": "はなぞの",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "深谷市"
+  },
+  {
+    "name": "両神温泉薬師の湯",
+    "kana": "りょうかみおんせんくすりしのゆ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父郡小鹿野町"
+  },
+  {
+    "name": "かわもと",
+    "kana": "かわもと",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "深谷市"
+  },
+  {
+    "name": "めぬま",
+    "kana": "めぬま",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "熊谷市"
+  },
+  {
+    "name": "ちちぶ",
+    "kana": "ちちぶ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父市"
+  },
+  {
+    "name": "アグリパークゆめすぎと",
+    "kana": "あぐりぱーくゆめすぎと",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "北葛飾郡杉戸町"
+  },
+  {
+    "name": "果樹公園あしがくぼ",
+    "kana": "かじゅこうえんあしがくぼ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父郡横瀬町"
+  },
+  {
+    "name": "いちごの里　よしみ",
+    "kana": "いちごのさと　よしみ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "比企郡吉見町"
+  },
+  {
+    "name": "かぞわたらせ",
+    "kana": "かぞわたらせ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "加須市"
+  },
+  {
+    "name": "庄和",
+    "kana": "しょうわ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "春日部市"
+  },
+  {
+    "name": "はにゅう",
+    "kana": "はにゅう",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "羽生市"
+  },
+  {
+    "name": "みなの",
+    "kana": "みなの",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父郡皆野町"
+  },
+  {
+    "name": "和紙の里ひがしちちぶ",
+    "kana": "わしのさとひがしちちぶ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "秩父郡東秩父村"
+  },
+  {
+    "name": "べに花の郷おけがわ",
+    "kana": "べにはなのさとおけがわ",
+    "region": "関東",
+    "prefecture": "埼玉県",
+    "municipality": "桶川市"
+  }
+]

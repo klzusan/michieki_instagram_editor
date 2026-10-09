@@ -1,146 +1,128 @@
 [
   {
-    "name": "針テラス",
-    "kana": "はりてらす",
+    "name": "吉野路　大塔",
+    "kana": "よしのみち　おおとう",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "天理市",
-    "number": "01"
+    "municipality": "五條市"
   },
   {
-    "name": "針T・R・S",
-    "kana": "はりてらす",
+    "name": "吉野路　上北山",
+    "kana": "よしのみち　かみきたやま",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "天理市",
-    "number": "01"
+    "municipality": "吉野郡上北山村"
   },
   {
-    "name": "レスティ 唐古・鍵",
-    "kana": "れすてぃからこかぎ",
+    "name": "杉の湯　川上",
+    "kana": "すぎのゆ　かわかみ",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "田原本町",
-    "number": "02"
+    "municipality": "吉野郡川上村"
   },
   {
-    "name": "宇陀路 大宇陀",
-    "kana": "うだじおおうだ",
+    "name": "吉野路　黒滝",
+    "kana": "よしのみち　くろたき",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "宇陀市",
-    "number": "03"
+    "municipality": "吉野郡黒滝村"
   },
   {
-    "name": "宇陀路 室生",
-    "kana": "うだじむろう",
+    "name": "ふたかみパーク當麻",
+    "kana": "ふたかみぱーくとうま",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "宇陀市",
-    "number": "04"
+    "municipality": "葛城市"
+  },
+  {
+    "name": "宇陀路大宇陀",
+    "kana": "うだみちおおうだ",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "宇陀市"
+  },
+  {
+    "name": "十津川郷",
+    "kana": "とつがわさと",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "吉野郡十津川村"
+  },
+  {
+    "name": "宇陀路室生",
+    "kana": "うだみちむろう",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "宇陀市"
+  },
+  {
+    "name": "針Ｔ・Ｒ・Ｓ",
+    "kana": "はりＴ・Ｒ・Ｓ",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "奈良市"
   },
   {
     "name": "大和路へぐり",
-    "kana": "やまところへぐり",
+    "kana": "やまとみちへぐり",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "平群町",
-    "number": "05"
+    "municipality": "生駒郡平群町"
   },
   {
-    "name": "ふたかみの丘 當麻",
-    "kana": "ふたかみのおかたいま",
+    "name": "吉野路　大淀ｉセンター",
+    "kana": "よしのみち　おおよどｉせんたー",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "葛城市",
-    "number": "06"
+    "municipality": "吉野郡大淀町"
+  },
+  {
+    "name": "伊勢本街道　御杖",
+    "kana": "いせほんかいどう　みつえ",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "宇陀郡御杖村"
   },
   {
     "name": "かつらぎ",
     "kana": "かつらぎ",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "葛城市",
-    "number": "07"
+    "municipality": "葛城市"
+  },
+  {
+    "name": "レスティ唐古・鍵",
+    "kana": "れすてぃからこ・かぎ",
+    "region": "近畿",
+    "prefecture": "奈良県",
+    "municipality": "磯城郡田原本町"
   },
   {
     "name": "飛鳥",
     "kana": "あすか",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "明日香村",
-    "number": "08"
+    "municipality": "高市郡明日香村"
   },
   {
-    "name": "吉野路 大淀iセンター",
-    "kana": "よしのじおおよどあいせんたー",
+    "name": "なら歴史芸術文化村",
+    "kana": "なられきしげいじゅつぶんかむら",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "大淀町",
-    "number": "09"
+    "municipality": "天理市"
   },
   {
-    "name": "吉野路 黒滝",
-    "kana": "よしのじくろたき",
+    "name": "クロスウェイなかまち",
+    "kana": "くろすうぇいなかまち",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "黒滝村",
-    "number": "10"
+    "municipality": "奈良県"
   },
   {
-    "name": "吉野路 天川",
-    "kana": "よしのじてんかわ",
+    "name": "きなりの郷下北山",
+    "kana": "きなりのさとしもきたやま",
     "region": "近畿",
     "prefecture": "奈良県",
-    "municipality": "天川村",
-    "number": "11"
-  },
-  {
-    "name": "吉野路 上北山",
-    "kana": "よしのじかみきたやま",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "上北山村",
-    "number": "12"
-  },
-  {
-    "name": "吉野路 吉野路",
-    "kana": "よしのじよしのじ",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "吉野町",
-    "number": "13"
-  },
-  {
-    "name": "吉野路 大塔",
-    "kana": "よしのじおおとう",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "五條市",
-    "number": "14"
-  },
-  {
-    "name": "吉野路 十津川郷",
-    "kana": "よしのじとつかわごう",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "十津川村",
-    "number": "15"
-  },
-  {
-    "name": "杉の湯 川上",
-    "kana": "すぎのゆかわかみ",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "川上村",
-    "number": "16"
-  },
-  {
-    "name": "伊勢本街道 御杖",
-    "kana": "いせほんかいどうみつえ",
-    "region": "近畿",
-    "prefecture": "奈良県",
-    "municipality": "御杖村",
-    "number": "17"
+    "municipality": "吉野郡下北山村"
   }
 ]

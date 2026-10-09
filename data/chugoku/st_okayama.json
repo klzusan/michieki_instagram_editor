@@ -1,10 +1,121 @@
 [
   {
-    "name": "一本松展望園",
-    "kana": "いっぽんまつてんぼうえん",
+    "name": "かもがわ円城",
+    "kana": "かもがわえんじょう",
     "region": "中国",
     "prefecture": "岡山県",
-    "municipality": "瀬戸内市",
-    "number": "01"
+    "municipality": "加賀郡吉備中央町"
+  },
+  {
+    "name": "がいせん桜　新庄宿",
+    "kana": "がいせんさくら　しんじょうやど",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "真庭郡新庄村"
+  },
+  {
+    "name": "あわくらんど",
+    "kana": "あわくらんど",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "英田郡西粟倉村"
+  },
+  {
+    "name": "くめなん",
+    "kana": "くめなん",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "久米郡久米南町"
+  },
+  {
+    "name": "みやま公園",
+    "kana": "みやまこうえん",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "玉野市"
+  },
+  {
+    "name": "一本松展望園",
+    "kana": "いっぽんまつてんぼうその",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "瀬戸内市"
+  },
+  {
+    "name": "黒井山グリーンパーク",
+    "kana": "くろいやまぐりーんぱーく",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "瀬戸内市"
+  },
+  {
+    "name": "鯉が窪",
+    "kana": "こいがくぼ",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "新見市"
+  },
+  {
+    "name": "蒜山高原",
+    "kana": "ひるぜんこうげん",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "真庭市"
+  },
+  {
+    "name": "風の家",
+    "kana": "かぜのいえ",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "真庭市"
+  },
+  {
+    "name": "彩菜茶屋",
+    "kana": "あやなちゃや",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "美作市"
+  },
+  {
+    "name": "奥津温泉",
+    "kana": "おくつおんせん",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "苫田郡鏡野町"
+  },
+  {
+    "name": "久米の里",
+    "kana": "くめのさと",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "津山市"
+  },
+  {
+    "name": "醍醐の里",
+    "kana": "だいごのさと",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "真庭市"
+  },
+  {
+    "name": "かよう",
+    "kana": "かよう",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "加賀郡吉備中央町"
+  },
+  {
+    "name": "笠岡ベイファーム",
+    "kana": "かさおかべいふぁーむ",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "笠岡市"
+  },
+  {
+    "name": "山陽道やかげ宿",
+    "kana": "さんようどうやかげやど",
+    "region": "中国",
+    "prefecture": "岡山県",
+    "municipality": "小田郡矢掛町"
   }
 ]

@@ -1,10 +1,268 @@
 [
   {
+    "name": "小国",
+    "kana": "しょうこく",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "阿蘇郡小国町"
+  },
+  {
+    "name": "波野",
+    "kana": "なみの",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "阿蘇市"
+  },
+  {
+    "name": "旭志",
+    "kana": "きょくし",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "菊池市"
+  },
+  {
+    "name": "大津",
+    "kana": "おおつ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "菊池郡大津町"
+  },
+  {
+    "name": "坂本",
+    "kana": "さかもと",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "八代市"
+  },
+  {
+    "name": "不知火",
+    "kana": "しらぬい",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "宇城市"
+  },
+  {
+    "name": "有明",
+    "kana": "ありあけ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
+  },
+  {
+    "name": "鹿北",
+    "kana": "かほく",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "山鹿市"
+  },
+  {
+    "name": "七城メロンドーム",
+    "kana": "しちじょうめろんどーむ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "菊池市"
+  },
+  {
+    "name": "泗水",
+    "kana": "しすい",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "菊池市"
+  },
+  {
+    "name": "きくすい",
+    "kana": "きくすい",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "玉名郡和水町"
+  },
+  {
+    "name": "清和文楽邑",
+    "kana": "きよかずぶんらくむら",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "上益城郡山都町"
+  },
+  {
+    "name": "通潤橋",
+    "kana": "とおりじゅんはし",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "上益城郡山都町"
+  },
+  {
+    "name": "竜北",
+    "kana": "りゅうほく",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "八代郡氷川町"
+  },
+  {
+    "name": "錦",
+    "kana": "にしき",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "球磨郡錦町"
+  },
+  {
+    "name": "たのうら",
+    "kana": "たのうら",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "葦北郡芦北町"
+  },
+  {
+    "name": "子守唄の里　五木",
+    "kana": "こもりうたのさと　いつき",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "球磨郡五木村"
+  },
+  {
+    "name": "宇土マリーナ",
+    "kana": "うとまりーな",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "宇土市"
+  },
+  {
     "name": "阿蘇",
     "kana": "あそ",
-    "region": "九州",
+    "region": "九州・沖縄",
     "prefecture": "熊本県",
-    "municipality": "阿蘇市",
-    "number": "01"
+    "municipality": "阿蘇市"
+  },
+  {
+    "name": "みなまた",
+    "kana": "みなまた",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "水俣市"
+  },
+  {
+    "name": "うき",
+    "kana": "うき",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "宇城市"
+  },
+  {
+    "name": "そよ風パーク",
+    "kana": "そよかぜぱーく",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "上益城郡山都町"
+  },
+  {
+    "name": "大野温泉",
+    "kana": "おおのおんせん",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "葦北郡芦北町"
+  },
+  {
+    "name": "美里「佐俣の湯」",
+    "kana": "みさと「さまたのゆ」",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "下益城郡美里町"
+  },
+  {
+    "name": "上天草さんぱーる",
+    "kana": "かみあまくささんぱーる",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "上天草市"
+  },
+  {
+    "name": "うしぶか海彩館",
+    "kana": "うしぶかうみさいかん",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
+  },
+  {
+    "name": "あそ望の郷くぎの",
+    "kana": "あそのぞのさとくぎの",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "阿蘇郡南阿蘇村"
+  },
+  {
+    "name": "水辺プラザかもと",
+    "kana": "すいへんぷらざかもと",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "山鹿市"
+  },
+  {
+    "name": "すいかの里植木",
+    "kana": "すいかのさとうえき",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "熊本市"
+  },
+  {
+    "name": "芦北でこぽん",
+    "kana": "あしきたでこぽん",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "葦北郡芦北町"
+  },
+  {
+    "name": "﨑津",
+    "kana": "つ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
+  },
+  {
+    "name": "天草市イルカセンター",
+    "kana": "あまくさしいるかせんたー",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
+  },
+  {
+    "name": "人吉",
+    "kana": "ひとよし",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "人吉市"
+  },
+  {
+    "name": "宮地岳かかしの里",
+    "kana": "みやぢがくかかしのさと",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
+  },
+  {
+    "name": "東陽",
+    "kana": "とうよう",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "八代市"
+  },
+  {
+    "name": "秘境の郷いずみ",
+    "kana": "ひきょうのさといずみ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "八代市"
+  },
+  {
+    "name": "ウェルネスあらお",
+    "kana": "うぇるねすあらお",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "荒尾市"
+  },
+  {
+    "name": "くらたけ天草戦国ミュージアム",
+    "kana": "くらたけあまくさせんごくみゅーじあむ",
+    "region": "九州・沖縄",
+    "prefecture": "熊本県",
+    "municipality": "天草市"
   }
 ]

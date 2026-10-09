@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "箱根峠",
+    "kana": "はこねとうげ",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "足柄下郡箱根町"
+  },
+  {
+    "name": "山北",
+    "kana": "さんぽく",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "足柄上郡山北町"
+  },
+  {
+    "name": "清川",
+    "kana": "きよかわ",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "愛甲郡清川村"
+  },
+  {
+    "name": "足柄・金太郎のふるさと",
+    "kana": "あしがら・きんたろうのふるさと",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "南足柄市"
+  },
+  {
+    "name": "湘南ちがさき",
+    "kana": "しょうなんちがさき",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "茅ヶ崎市"
+  },
+  {
+    "name": "やどりきテラス　清流の里",
+    "kana": "やどりきてらす　せいりゅうのさと",
+    "region": "関東",
+    "prefecture": "神奈川県",
+    "municipality": "足柄上郡松田町"
+  }
+]

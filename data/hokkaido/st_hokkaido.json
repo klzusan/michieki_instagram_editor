@@ -1,10 +1,898 @@
 [
   {
+    "name": "三笠",
+    "kana": "みかさ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "三笠市"
+  },
+  {
+    "name": "スタープラザ　芦別",
+    "kana": "すたーぷらざ　あしべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "芦別市"
+  },
+  {
+    "name": "南ふらの",
+    "kana": "みなみふらの",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "空知郡南富良野町"
+  },
+  {
+    "name": "しらぬか恋問館",
+    "kana": "しらぬかこいとんかん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "白糠郡白糠町"
+  },
+  {
+    "name": "びふか",
+    "kana": "びふか",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "中川郡美深町"
+  },
+  {
+    "name": "江差",
+    "kana": "えさし",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "檜山郡江差町"
+  },
+  {
+    "name": "望羊中山",
+    "kana": "ぼうひつじなかやま",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡喜茂別町"
+  },
+  {
+    "name": "えんべつ富士見",
+    "kana": "えんべつふじみ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "天塩郡遠別町"
+  },
+  {
+    "name": "忠類",
+    "kana": "ちゅうるい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "中川郡幕別町"
+  },
+  {
+    "name": "摩周温泉",
+    "kana": "ましゅうおんせん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "川上郡弟子屈町"
+  },
+  {
+    "name": "おといねっぷ",
+    "kana": "おといねっぷ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "中川郡音威子府村"
+  },
+  {
+    "name": "かみゆうべつ温泉チューリップの湯",
+    "kana": "かみゆうべつおんせんちゅーりっぷのゆ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡湧別町"
+  },
+  {
+    "name": "いわない",
+    "kana": "いわない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "岩内郡岩内町"
+  },
+  {
+    "name": "厚岸グルメパーク",
+    "kana": "あっけしぐるめぱーく",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "厚岸郡厚岸町"
+  },
+  {
+    "name": "サンフラワー北竜",
+    "kana": "さんふらわーほくりゅう",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "雨竜郡北竜町"
+  },
+  {
+    "name": "みついし",
+    "kana": "みついし",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "日高郡新ひだか町"
+  },
+  {
+    "name": "あっさぶ",
+    "kana": "あっさぶ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "檜山郡厚沢部町"
+  },
+  {
+    "name": "よってけ！島牧",
+    "kana": "よってけ！しままき",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "島牧郡島牧村"
+  },
+  {
+    "name": "てっくいランド大成",
+    "kana": "てっくいらんどたいせい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "久遠郡せたな町"
+  },
+  {
+    "name": "オホーツク紋別",
+    "kana": "おほーつくもんべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別市"
+  },
+  {
+    "name": "YOU･遊･もり",
+    "kana": "YOUYOUゆうゆうもり",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "茅部郡森町"
+  },
+  {
+    "name": "おんねゆ温泉",
+    "kana": "おんねゆおんせん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "北見市"
+  },
+  {
+    "name": "ルート２２９元和台",
+    "kana": "るーと２２９げんなだい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "爾志郡乙部町"
+  },
+  {
+    "name": "ハウスヤルビ奈井江",
+    "kana": "はうすやるびないえ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "空知郡奈井江町"
+  },
+  {
+    "name": "おびら鰊番屋",
+    "kana": "おびらにしんばんや",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "留萌郡小平町"
+  },
+  {
+    "name": "マリーンアイランド岡島",
+    "kana": "まりーんあいらんどおかじま",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "枝幸郡枝幸町"
+  },
+  {
+    "name": "おこっぺ",
+    "kana": "おこっぺ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡興部町"
+  },
+  {
+    "name": "阿寒丹頂の里",
+    "kana": "あかんたんちょうのさと",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "釧路市"
+  },
+  {
+    "name": "おとふけ",
+    "kana": "おとふけ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡音更町"
+  },
+  {
+    "name": "ピンネシリ",
+    "kana": "ぴんねしり",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "枝幸郡中頓別町"
+  },
+  {
+    "name": "上ノ国もんじゅ",
+    "kana": "うえのくにもんじゅ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "檜山郡上ノ国町"
+  },
+  {
+    "name": "オスコイ！かもえない",
+    "kana": "おすこい！かもえない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "古宇郡神恵内村"
+  },
+  {
+    "name": "なかさつない",
+    "kana": "なかさつない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河西郡中札内村"
+  },
+  {
+    "name": "マオイの丘公園",
+    "kana": "まおいのおかこうえん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "夕張郡長沼町"
+  },
+  {
+    "name": "樹海ロード日高",
+    "kana": "じゅかいろーどひだか",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "沙流郡日高町"
+  },
+  {
+    "name": "そうべつ情報館ｉ（アイ）",
+    "kana": "そうべつじょうほうかんｉ（あい）",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "有珠郡壮瞥町"
+  },
+  {
+    "name": "ニセコビュープラザ",
+    "kana": "にせこびゅーぷらざ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡ニセコ町"
+  },
+  {
+    "name": "しりうち",
+    "kana": "しりうち",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上磯郡知内町"
+  },
+  {
+    "name": "横綱の里ふくしま",
+    "kana": "よこづなのさとふくしま",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "松前郡福島町"
+  },
+  {
+    "name": "サラブレッドロード新冠",
+    "kana": "さらぶれっどろーどにいかっぷ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "新冠郡新冠町"
+  },
+  {
+    "name": "ピア２１しほろ",
+    "kana": "ぴあ２１しほろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡士幌町"
+  },
+  {
+    "name": "香りの里たきのうえ",
+    "kana": "かおりのさとたきのうえ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡滝上町"
+  },
+  {
+    "name": "田園の里うりゅう",
+    "kana": "でんえんのさとうりゅう",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "雨竜郡雨竜町"
+  },
+  {
+    "name": "みたら室蘭",
+    "kana": "みたらむろらん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "室蘭市"
+  },
+  {
+    "name": "とうま",
+    "kana": "とうま",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上川郡当麻町"
+  },
+  {
+    "name": "スペース・アップルよいち",
+    "kana": "すぺーす・あっぷるよいち",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "余市郡余市町"
+  },
+  {
+    "name": "ほっと♡はぼろ",
+    "kana": "ほっと♡はぼろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "苫前郡羽幌町"
+  },
+  {
+    "name": "サロマ湖",
+    "kana": "さろまみずうみ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "常呂郡佐呂間町"
+  },
+  {
+    "name": "愛ランド湧別",
+    "kana": "あいらんどゆうべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡湧別町"
+  },
+  {
+    "name": "おうむ",
+    "kana": "おうむ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡雄武町"
+  },
+  {
+    "name": "さるふつ公園",
+    "kana": "さるふつこうえん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "宗谷郡猿払村"
+  },
+  {
+    "name": "森と湖の里ほろかない",
+    "kana": "もりとみずうみのさとほろかない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "雨竜郡幌加内町"
+  },
+  {
+    "name": "うたしないチロルの湯",
+    "kana": "うたしないちろるのゆ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "歌志内市"
+  },
+  {
+    "name": "くろまつない",
+    "kana": "くろまつない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "寿都郡黒松内町"
+  },
+  {
+    "name": "たきかわ",
+    "kana": "たきかわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "滝川市"
+  },
+  {
+    "name": "スワン４４ねむろ",
+    "kana": "すわん４４ねむろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "根室市"
+  },
+  {
+    "name": "つるぬま",
+    "kana": "つるぬま",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "樺戸郡浦臼町"
+  },
+  {
+    "name": "なとわ・えさん",
+    "kana": "なとわ・えさん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "函館市"
+  },
+  {
+    "name": "つど～る・プラザ・さわら",
+    "kana": "つど～る・ぷらざ・さわら",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "茅部郡森町"
+  },
+  {
+    "name": "知床・らうす",
+    "kana": "しれとこ・らうす",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "目梨郡羅臼町"
+  },
+  {
+    "name": "さらべつ",
+    "kana": "さらべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河西郡更別村"
+  },
+  {
+    "name": "だて歴史の杜",
+    "kana": "だてれきしのもり",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "伊達市"
+  },
+  {
+    "name": "あさひかわ",
+    "kana": "あさひかわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "旭川市"
+  },
+  {
+    "name": "自然体感しむかっぷ",
+    "kana": "しぜんたいかんしむかっぷ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "勇払郡占冠村"
+  },
+  {
+    "name": "にしおこっぺ花夢",
+    "kana": "にしおこっぺはなゆめ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡西興部村"
+  },
+  {
+    "name": "オーロラタウン９３りくべつ",
+    "kana": "おーろらたうん９３りくべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "足寄郡陸別町"
+  },
+  {
+    "name": "はなやか（葉菜野花）小清水",
+    "kana": "はなやか（ようさいのばな）こしみず",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "斜里郡小清水町"
+  },
+  {
+    "name": "ライスランドふかがわ",
+    "kana": "らいすらんどふかがわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "深川市"
+  },
+  {
+    "name": "なかがわ",
+    "kana": "なかがわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "中川郡中川町"
+  },
+  {
+    "name": "２３０ルスツ",
+    "kana": "２３０るすつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡留寿都村"
+  },
+  {
+    "name": "てしお",
+    "kana": "てしお",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "天塩郡天塩町"
+  },
+  {
+    "name": "コスモール大樹",
+    "kana": "こすもーるたいじゅ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "広尾郡大樹町"
+  },
+  {
+    "name": "ぐるっとパノラマ美幌峠",
+    "kana": "ぐるっとぱのらまびほろとうげ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "網走郡美幌町"
+  },
+  {
+    "name": "らんこし・ふるさとの丘",
+    "kana": "らんこし・ふるさとのおか",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "磯谷郡蘭越町"
+  },
+  {
+    "name": "とようら",
+    "kana": "とようら",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡豊浦町"
+  },
+  {
+    "name": "メルヘンの丘めまんべつ",
+    "kana": "めるへんのおかめまんべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "網走郡大空町"
+  },
+  {
+    "name": "むかわ四季の館",
+    "kana": "むかわしきのかん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "勇払郡むかわ町"
+  },
+  {
+    "name": "あいおい",
+    "kana": "あいおい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "網走郡津別町"
+  },
+  {
+    "name": "しかおい",
+    "kana": "しかおい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡鹿追町"
+  },
+  {
+    "name": "しらたき",
+    "kana": "しらたき",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡遠軽町"
+  },
+  {
+    "name": "あしょろ銀河ホール２１",
+    "kana": "あしょろぎんがほーる２１",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "足寄郡足寄町"
+  },
+  {
     "name": "サーモンパーク千歳",
     "kana": "さーもんぱーくちとせ",
     "region": "北海道",
     "prefecture": "北海道",
-    "municipality": "千歳市",
-    "number": "01"
+    "municipality": "千歳市"
+  },
+  {
+    "name": "ひがしかわ「道草館」",
+    "kana": "ひがしかわ「みちくさかん」",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上川郡東川町"
+  },
+  {
+    "name": "花ロードえにわ",
+    "kana": "はなろーどえにわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "恵庭市"
+  },
+  {
+    "name": "シェルプラザ・港",
+    "kana": "しぇるぷらざ・みなと",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "磯谷郡蘭越町"
+  },
+  {
+    "name": "真狩フラワーセンター",
+    "kana": "まっかりふらわーせんたー",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡真狩村"
+  },
+  {
+    "name": "鐘のなるまち・ちっぷべつ",
+    "kana": "かねのなるまち・ちっぷべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "雨竜郡秩父別町"
+  },
+  {
+    "name": "あぷた",
+    "kana": "あぷた",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡洞爺湖町"
+  },
+  {
+    "name": "うりまく",
+    "kana": "うりまく",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡鹿追町"
+  },
+  {
+    "name": "絵本の里けんぶち",
+    "kana": "えほんのさとけんぶち",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上川郡剣淵町"
+  },
+  {
+    "name": "風Ｗとままえ",
+    "kana": "かぜＷとままえ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "苫前郡苫前町"
+  },
+  {
+    "name": "しほろ温泉",
+    "kana": "しほろおんせん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡士幌町"
+  },
+  {
+    "name": "名水の郷きょうごく",
+    "kana": "めいすいのさときょうごく",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡京極町"
+  },
+  {
+    "name": "びえい「丘のくら」",
+    "kana": "びえい「おかのくら」",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上川郡美瑛町"
+  },
+  {
+    "name": "☆ロマン街道しょさんべつ",
+    "kana": "☆ろまんかいどうしょさんべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "苫前郡初山別村"
+  },
+  {
+    "name": "うとろ・シリエトク",
+    "kana": "うとろ・しりえとく",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "斜里郡斜里町"
+  },
+  {
+    "name": "しゃり",
+    "kana": "しゃり",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "斜里郡斜里町"
+  },
+  {
+    "name": "パパスランドさっつる",
+    "kana": "ぱぱすらんどさっつる",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "斜里郡清里町"
+  },
+  {
+    "name": "もち米の里☆なよろ",
+    "kana": "もちこめのさと☆なよろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "名寄市"
+  },
+  {
+    "name": "みなとま～れ寿都",
+    "kana": "みなとま～れすっつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "寿都郡寿都町"
+  },
+  {
+    "name": "とうや湖",
+    "kana": "とうやみずうみ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "虻田郡洞爺湖町"
+  },
+  {
+    "name": "流氷街道網走",
+    "kana": "りゅうひょうかいどうあばしり",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "網走市"
+  },
+  {
+    "name": "北前船 松前",
+    "kana": "きたまえふね まつまえ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "松前郡松前町"
+  },
+  {
+    "name": "ステラ★ほんべつ",
+    "kana": "すてら★ほんべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "中川郡本別町"
+  },
+  {
+    "name": "ウトナイ湖",
+    "kana": "うとないみずうみ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "苫小牧市"
+  },
+  {
+    "name": "うらほろ",
+    "kana": "うらほろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "十勝郡浦幌町"
+  },
+  {
+    "name": "しんしのつ",
+    "kana": "しんしのつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "石狩郡新篠津村"
+  },
+  {
+    "name": "夕張メロード",
+    "kana": "ゆうばりめろーど",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "夕張市"
+  },
+  {
+    "name": "おだいとう",
+    "kana": "おだいとう",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "野付郡別海町"
+  },
+  {
+    "name": "縄文ロマン　南かやべ",
+    "kana": "じょうもんろまん　みなみかやべ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "函館市"
+  },
+  {
+    "name": "わっかない",
+    "kana": "わっかない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "稚内市"
+  },
+  {
+    "name": "あかいがわ",
+    "kana": "あかいがわ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "余市郡赤井川村"
+  },
+  {
+    "name": "みそぎの郷　きこない",
+    "kana": "みそぎのさと　きこない",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上磯郡木古内町"
+  },
+  {
+    "name": "しかべ間歇泉公園",
+    "kana": "しかべかんけついずみこうえん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "茅部郡鹿部町"
+  },
+  {
+    "name": "ノンキーランド　ひがしもこと",
+    "kana": "のんきーらんど　ひがしもこと",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "網走郡大空町"
+  },
+  {
+    "name": "北欧の風　道の駅とうべつ",
+    "kana": "ほくおうのかぜ　みちのえきとうべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "石狩郡当別町"
+  },
+  {
+    "name": "石狩「あいろーど厚田」",
+    "kana": "いしかり「あいろーどあつた」",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "石狩市"
+  },
+  {
+    "name": "なないろ・ななえ",
+    "kana": "なないろ・ななえ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "亀田郡七飯町"
+  },
+  {
+    "name": "びえい「白金ビルケ」",
+    "kana": "びえい「しろがねびるけ」",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "上川郡美瑛町"
+  },
+  {
+    "name": "北オホーツクはまとんべつ",
+    "kana": "きたおほーつくはまとんべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "枝幸郡浜頓別町"
+  },
+  {
+    "name": "あびら D51ステーション",
+    "kana": "あびら D51すてーしょん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "勇払郡安平町"
+  },
+  {
+    "name": "遠軽 森のオホーツク",
+    "kana": "えんかる もりのおほーつく",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "紋別郡遠軽町"
+  },
+  {
+    "name": "るもい",
+    "kana": "るもい",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "留萌市"
+  },
+  {
+    "name": "かみしほろ",
+    "kana": "かみしほろ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡上士幌町"
+  },
+  {
+    "name": "ガーデンスパ十勝川温泉",
+    "kana": "がーでんすぱとかちがわおんせん",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "河東郡音更町"
+  },
+  {
+    "name": "羊のまち 侍・しべつ",
+    "kana": "ひつじのまち さむらい・しべつ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "士別市"
+  },
+  {
+    "name": "２７５つきがた",
+    "kana": "２７５つきがた",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "樺戸郡月形町"
+  },
+  {
+    "name": "ふるびらたらこミュージアム",
+    "kana": "ふるびらたらこみゅーじあむ",
+    "region": "北海道",
+    "prefecture": "北海道",
+    "municipality": "古平郡古平町"
   }
 ]

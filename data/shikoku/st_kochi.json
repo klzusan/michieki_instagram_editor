@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "name": "大杉",
+    "kana": "おおすぎ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "長岡郡大豊町"
+  },
+  {
+    "name": "すくも",
+    "kana": "すくも",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "宿毛市"
+  },
+  {
+    "name": "大月",
+    "kana": "おおつき",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "幡多郡大月町"
+  },
+  {
+    "name": "四万十大正",
+    "kana": "しまんとたいしょう",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡四万十町"
+  },
+  {
+    "name": "ゆすはら",
+    "kana": "ゆすはら",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡梼原町"
+  },
+  {
+    "name": "南国風良里",
+    "kana": "なんごくかぜりょうさと",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "南国市"
+  },
+  {
+    "name": "美良布",
+    "kana": "みよしぬの",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "香美市"
+  },
+  {
+    "name": "布施ヶ坂",
+    "kana": "ふせゖさか",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡津野町"
+  },
+  {
+    "name": "キラメッセ室戸",
+    "kana": "きらめっせむろと",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "室戸市"
+  },
+  {
+    "name": "土佐和紙工芸村",
+    "kana": "とさわしこうげいむら",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "吾川郡いの町"
+  },
+  {
+    "name": "土佐さめうら",
+    "kana": "とささめうら",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "土佐郡土佐町"
+  },
+  {
+    "name": "大山",
+    "kana": "おおやま",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "安芸市"
+  },
+  {
+    "name": "かわうその里すさき",
+    "kana": "かわうそのさとすさき",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "須崎市"
+  },
+  {
+    "name": "あぐり窪川",
+    "kana": "あぐりくぼかわ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡四万十町"
+  },
+  {
+    "name": "木の香",
+    "kana": "きのかおり",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "吾川郡いの町"
+  },
+  {
+    "name": "めじかの里土佐清水",
+    "kana": "めじかのさととさしみず",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "土佐清水市"
+  },
+  {
+    "name": "やす",
+    "kana": "やす",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "香南市"
+  },
+  {
+    "name": "６３３美の里",
+    "kana": "６３３びのさと",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "吾川郡いの町"
+  },
+  {
+    "name": "田野駅屋",
+    "kana": "たのえきや",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "安芸郡田野町"
+  },
+  {
+    "name": "ビオスおおがた",
+    "kana": "びおすおおがた",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "幡多郡黒潮町"
+  },
+  {
+    "name": "四万十とおわ",
+    "kana": "しまんととおわ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡四万十町"
+  },
+  {
+    "name": "なぶら土佐佐賀",
+    "kana": "なぶらとささが",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "幡多郡黒潮町"
+  },
+  {
+    "name": "よって西土佐",
+    "kana": "よってにしとさ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "四万十市"
+  },
+  {
+    "name": "なかとさ",
+    "kana": "なかとさ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡中土佐町"
+  },
+  {
+    "name": "まきのさんの道の駅・佐川",
+    "kana": "まきのさんのみちのえき・さがわ",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "高岡郡佐川町"
+  },
+  {
+    "name": "東洋町",
+    "kana": "とうようまち",
+    "region": "四国",
+    "prefecture": "高知県",
+    "municipality": "安芸郡東洋町"
+  }
+]

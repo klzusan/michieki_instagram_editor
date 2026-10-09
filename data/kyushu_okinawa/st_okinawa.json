@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "name": "許田",
+    "kana": "きょだ",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "名護市"
+  },
+  {
+    "name": "おおぎみ",
+    "kana": "おおぎみ",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "国頭郡大宜味村"
+  },
+  {
+    "name": "ゆいゆい国頭",
+    "kana": "ゆいゆいくにがみ",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "国頭郡国頭村"
+  },
+  {
+    "name": "かでな",
+    "kana": "かでな",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "中頭郡嘉手納町"
+  },
+  {
+    "name": "喜名番所",
+    "kana": "きめいばんしょ",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "中頭郡読谷村"
+  },
+  {
+    "name": "豊崎",
+    "kana": "とよさき",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "豊見城市"
+  },
+  {
+    "name": "いとまん",
+    "kana": "いとまん",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "糸満市"
+  },
+  {
+    "name": "ぎのざ",
+    "kana": "ぎのざ",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "国頭郡宜野座村"
+  },
+  {
+    "name": "サンライズひがし",
+    "kana": "さんらいずひがし",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "国頭郡東村"
+  },
+  {
+    "name": "やんばるパイナップルの丘安波",
+    "kana": "やんばるぱいなっぷるのおかあは",
+    "region": "九州・沖縄",
+    "prefecture": "沖縄県",
+    "municipality": "国頭郡国頭村"
+  }
+]

@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "name": "喜入",
+    "kana": "きいれ",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "鹿児島市"
+  },
+  {
+    "name": "霧島",
+    "kana": "きりしま",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "霧島市"
+  },
+  {
+    "name": "樋脇",
+    "kana": "ひわき",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "薩摩川内市"
+  },
+  {
+    "name": "松山",
+    "kana": "まつやま",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "志布志市"
+  },
+  {
+    "name": "阿久根",
+    "kana": "あくね",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "阿久根市"
+  },
+  {
+    "name": "長島",
+    "kana": "ながしま",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "出水郡長島町"
+  },
+  {
+    "name": "くにの松原おおさき",
+    "kana": "くにのまつばらおおさき",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "曽於郡大崎町"
+  },
+  {
+    "name": "根占",
+    "kana": "ねじめ",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "肝属郡南大隅町"
+  },
+  {
+    "name": "川辺やすらぎの郷",
+    "kana": "かわべやすらぎのさと",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "南九州市"
+  },
+  {
+    "name": "奄美大島住用",
+    "kana": "あまみおおしますみよう",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "奄美市"
+  },
+  {
+    "name": "桜島",
+    "kana": "さくらしま",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "鹿児島市"
+  },
+  {
+    "name": "きんぽう木花館",
+    "kana": "きんぽうきはなかん",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "南さつま市"
+  },
+  {
+    "name": "おおすみ弥五郎伝説の里",
+    "kana": "おおすみやごろうでんせつのさと",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "曽於市"
+  },
+  {
+    "name": "たからべ",
+    "kana": "たからべ",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "曽於市"
+  },
+  {
+    "name": "いぶすき",
+    "kana": "いぶすき",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "指宿市"
+  },
+  {
+    "name": "たるみず",
+    "kana": "たるみず",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "垂水市"
+  },
+  {
+    "name": "すえよし",
+    "kana": "すえよし",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "曽於市"
+  },
+  {
+    "name": "黒之瀬戸だんだん市場",
+    "kana": "くろゆきせとだんだんしじょう",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "出水郡長島町"
+  },
+  {
+    "name": "山川港活お海道",
+    "kana": "やまかわみなとかつおかいどう",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "指宿市"
+  },
+  {
+    "name": "錦江にしきの里",
+    "kana": "きんこうにしきのさと",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "肝属郡錦江町"
+  },
+  {
+    "name": "野方あらさの",
+    "kana": "のがたあらさの",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "曽於郡大崎町"
+  },
+  {
+    "name": "たるみずはまびら",
+    "kana": "たるみずはまびら",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "垂水市"
+  },
+  {
+    "name": "とくのしま",
+    "kana": "とくのしま",
+    "region": "九州・沖縄",
+    "prefecture": "鹿児島県",
+    "municipality": "大島郡徳之島町"
+  }
+]

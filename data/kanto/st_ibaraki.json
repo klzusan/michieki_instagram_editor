@@ -1,10 +1,114 @@
 [
   {
-    "name": "まくらがの里こが",
-    "kana": "まくらがのさとこが",
+    "name": "かつら",
+    "kana": "かつら",
     "region": "関東",
     "prefecture": "茨城県",
-    "municipality": "古河市",
-    "number": "01"
+    "municipality": "東茨城郡城里町"
+  },
+  {
+    "name": "みわ",
+    "kana": "みわ",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "常陸大宮市"
+  },
+  {
+    "name": "さとみ",
+    "kana": "さとみ",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "常陸太田市"
+  },
+  {
+    "name": "さかい",
+    "kana": "さかい",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "猿島郡境町"
+  },
+  {
+    "name": "奥久慈だいご",
+    "kana": "おくくじだいご",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "久慈郡大子町"
+  },
+  {
+    "name": "しもつま",
+    "kana": "しもつま",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "下妻市"
+  },
+  {
+    "name": "たまつくり",
+    "kana": "たまつくり",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "行方市"
+  },
+  {
+    "name": "いたこ",
+    "kana": "いたこ",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "潮来市"
+  },
+  {
+    "name": "ごか",
+    "kana": "ごか",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "猿島郡五霞町"
+  },
+  {
+    "name": "まくらがの里　こが",
+    "kana": "まくらがのさと　こが",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "古河市"
+  },
+  {
+    "name": "日立おさかなセンター",
+    "kana": "ひたちおさかなせんたー",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "日立市"
+  },
+  {
+    "name": "常陸大宮",
+    "kana": "ひたちおおみや",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "常陸大宮市"
+  },
+  {
+    "name": "ひたちおおた",
+    "kana": "ひたちおおた",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "常陸太田市"
+  },
+  {
+    "name": "グランテラス筑西",
+    "kana": "ぐらんてらすちくせい",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "筑西市"
+  },
+  {
+    "name": "かさま",
+    "kana": "かさま",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "笠間市"
+  },
+  {
+    "name": "常総",
+    "kana": "じょうそう",
+    "region": "関東",
+    "prefecture": "茨城県",
+    "municipality": "常総市"
   }
 ]
